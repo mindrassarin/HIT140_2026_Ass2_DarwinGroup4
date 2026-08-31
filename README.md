@@ -1,2 +1,0 @@
-# HIT140_2026_Ass2_DarwinGroup4
-HIT140_2026_Ass2_DarwinGroup4
