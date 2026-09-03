@@ -1,0 +1,609 @@
+﻿Player,Pos,Squad,Age,90s,Sh,SoT,SoT/90,Primary_Position,Position_Group,Player_ID,IQR_Lower_Bound,IQR_Upper_Bound,Potential_Outlier
+Brenden Aaronson,MF,us USA,25,0.8,3,1,1.18,MF,Midfielder,PL0001,-0.96,1.6,False
+Thelo Aasgaard,MF,no Norway,24,1.0,2,1,1.0,MF,Midfielder,PL0002,-0.96,1.6,False
+Hamza Abdelkarim,FW,eg Egypt,18,0.7,0,0,0.0,FW,Forward,PL0003,-1.8824999999999998,3.1374999999999997,False
+Yusuf Abdurisag,FW,qa Qatar,26,1.1,0,0,0.0,FW,Forward,PL0004,-1.8824999999999998,3.1374999999999997,False
+Elias Achouri,"FW,MF",tn Tunisia,27,0.5,3,1,2.09,FW,Forward,PL0005,-1.8824999999999998,3.1374999999999997,False
+Ché Adams,FW,sct Scotland,29,1.6,1,1,0.62,FW,Forward,PL0006,-1.8824999999999998,3.1374999999999997,False
+Jayden Adams,MF,za South Africa,25,1.3,0,0,0.0,MF,Midfielder,PL0007,-0.96,1.6,False
+Tyler Adams,MF,us USA,27,3.8,0,0,0.0,MF,Midfielder,PL0008,-0.96,1.6,False
+Simon Adingra,"FW,MF",ci Côte d'Ivoire,24,0.2,0,0,0.0,FW,Forward,PL0009,-1.8824999999999998,3.1374999999999997,False
+Michel Aebischer,"MF,FW",ch Switzerland,29,1.7,2,1,0.58,MF,Midfielder,PL0010,-0.96,1.6,False
+Akram Afif,"FW,MF",qa Qatar,29,2.6,2,0,0.0,FW,Forward,PL0011,-1.8824999999999998,3.1374999999999997,False
+Ali Ahmed,MF,ca Canada,25,2.6,2,1,0.38,MF,Midfielder,PL0012,-0.96,1.6,False
+Yunus Akgün,MF,tr Türkiye,25,1.0,0,0,0.0,MF,Midfielder,PL0013,-0.96,1.6,False
+Maghnes Akliouche,MF,fr France,24,0.1,0,0,0.0,MF,Midfielder,PL0014,-0.96,1.6,False
+Kerem Aktürko?lu,FW,tr Türkiye,27,1.4,3,1,0.7,FW,Forward,PL0015,-1.8824999999999998,3.1374999999999997,False
+Ahmed Alaaeldin,FW,qa Qatar,33,0.5,1,1,2.09,FW,Forward,PL0016,-1.8824999999999998,3.1374999999999997,False
+Kerim Alajbegovi?,MF,ba Bosnia–Herz,18,3.1,4,1,0.32,MF,Midfielder,PL0017,-0.96,1.6,False
+Jordy Alcivar,MF,ec Ecuador,26,0.5,1,0,0.0,MF,Midfielder,PL0018,-0.96,1.6,False
+Almoez Ali,FW,qa Qatar,29,0.2,1,1,4.74,FW,Forward,PL0019,-1.8824999999999998,3.1374999999999997,True
+Mohanad Ali,FW,iq Iraq,25,0.1,0,0,0.0,FW,Forward,PL0020,-1.8824999999999998,3.1374999999999997,False
+Taha Ali,"FW,MF",se Sweden,27,0.4,0,0,0.0,FW,Forward,PL0021,-1.8824999999999998,3.1374999999999997,False
+Khojiakbar Alijonov,MF,uz Uzbekistan,29,1.5,0,0,0.0,MF,Midfielder,PL0022,-0.96,1.6,False
+Ali Alipour,FW,ir IR Iran,30,0.4,1,0,0.0,FW,Forward,PL0023,-1.8824999999999998,3.1374999999999997,False
+Thiago Almada,MF,ar Argentina,25,2.7,5,2,0.75,MF,Midfielder,PL0024,-0.96,1.6,False
+Miguel Almirón,"MF,FW",py Paraguay,32,3.1,4,0,0.0,MF,Midfielder,PL0025,-0.96,1.6,False
+Bar?? Alper Y?lmaz,"MF,FW",tr Türkiye,26,2.0,2,1,0.5,MF,Midfielder,PL0026,-0.96,1.6,False
+Roberto Alvarado,"FW,MF",mx Mexico,27,4.8,5,0,0.0,FW,Forward,PL0027,-1.8824999999999998,3.1374999999999997,False
+Edson Álvarez,"MF,DF",mx Mexico,28,2.7,2,0,0.0,MF,Midfielder,PL0028,-0.96,1.6,False
+Julián Álvarez,FW,ar Argentina,26,6.7,11,5,0.75,FW,Forward,PL0029,-1.8824999999999998,3.1374999999999997,False
+Ayoube Amaimouni,MF,ma Morocco,21,0.2,2,1,5.0,MF,Midfielder,PL0030,-0.96,1.6,True
+Zeki Amdouni,"FW,MF",ch Switzerland,25,0.8,1,0,0.0,FW,Forward,PL0031,-1.8824999999999998,3.1374999999999997,False
+Nadiem Amiri,MF,de Germany,29,0.5,2,1,2.14,MF,Midfielder,PL0032,-0.96,1.6,True
+Amir Al Ammari,MF,iq Iraq,28,2.7,0,0,0.0,MF,Midfielder,PL0033,-0.96,1.6,False
+Azizbek Amonov,FW,uz Uzbekistan,28,0.2,1,0,0.0,FW,Forward,PL0034,-1.8824999999999998,3.1374999999999997,False
+Mohamed Amoura,"FW,MF",dz Algeria,26,0.3,0,0,0.0,FW,Forward,PL0035,-1.8824999999999998,3.1374999999999997,False
+Sofyan Amrabat,MF,ma Morocco,29,1.6,0,0,0.0,MF,Midfielder,PL0036,-0.96,1.6,False
+Youssef Amyn,MF,iq Iraq,22,0.3,0,0,0.0,MF,Midfielder,PL0037,-0.96,1.6,False
+Elliot Anderson,MF,eng England,23,7.0,7,1,0.14,MF,Midfielder,PL0038,-0.96,1.6,False
+Nilson Angulo,MF,ec Ecuador,22,2.4,2,2,0.83,MF,Midfielder,PL0039,-0.96,1.6,False
+Jeremy Antonisse,"FW,MF",cw Curaçao,24,0.8,1,0,0.0,FW,Forward,PL0040,-1.8824999999999998,3.1374999999999997,False
+Houssem Aouar,MF,dz Algeria,27,1.9,3,1,0.52,MF,Midfielder,PL0041,-0.96,1.6,False
+Oswin Appollis,"MF,FW",za South Africa,24,2.8,4,1,0.35,MF,Midfielder,PL0042,-0.96,1.6,False
+Maxi Araújo,"FW,MF",uy Uruguay,26,2.8,4,3,1.08,FW,Forward,PL0043,-1.8824999999999998,3.1374999999999997,False
+Telmo Arcanjo,MF,cv Cabo Verde,24,0.6,0,0,0.0,MF,Midfielder,PL0044,-0.96,1.6,False
+Álex Arce,FW,py Paraguay,30,0.6,0,0,0.0,FW,Forward,PL0045,-1.8824999999999998,3.1374999999999997,False
+Carlens Arcus,"MF,DF",ht Haiti,29,1.6,0,0,0.0,MF,Midfielder,PL0046,-0.96,1.6,False
+Jhon Arias,MF,co Colombia,28,4.2,9,4,0.95,MF,Midfielder,PL0047,-0.96,1.6,False
+Marko Arnautovi?,FW,at Austria,37,1.6,3,3,1.87,FW,Forward,PL0048,-1.8824999999999998,3.1374999999999997,False
+Emam Ashour,MF,eg Egypt,28,4.0,10,2,0.5,MF,Midfielder,PL0049,-0.96,1.6,False
+Marwan Attia,MF,eg Egypt,27,4.8,4,0,0.0,MF,Midfielder,PL0050,-0.96,1.6,False
+Fredrik Aursnes,"MF,DF",no Norway,30,3.4,2,0,0.0,MF,Midfielder,PL0051,-0.96,1.6,False
+Gabriel Ávalos,FW,py Paraguay,35,1.6,1,0,0.0,FW,Forward,PL0052,-1.8824999999999998,3.1374999999999997,False
+Yasin Ayari,MF,se Sweden,22,3.8,7,3,0.8,MF,Midfielder,PL0053,-0.96,1.6,False
+Jordan Ayew,FW,gh Ghana,34,3.3,0,0,0.0,FW,Forward,PL0054,-1.8824999999999998,3.1374999999999997,False
+Neil El Aynaoui,MF,ma Morocco,24,6.2,7,2,0.32,MF,Midfielder,PL0055,-0.96,1.6,False
+Ali Azaizeh,MF,jo Jordan,22,0.6,2,0,0.0,MF,Midfielder,PL0056,-0.96,1.6,False
+Juninho Bacuna,MF,cw Curaçao,28,2.8,5,1,0.35,MF,Midfielder,PL0057,-0.96,1.6,False
+Leandro Bacuna,MF,cw Curaçao,34,3.0,6,1,0.33,MF,Midfielder,PL0058,-0.96,1.6,False
+Álex Baena,"MF,FW",es Spain,24,5.3,12,5,0.94,MF,Midfielder,PL0059,-0.96,1.6,False
+Esmir Bajraktarevic,MF,ba Bosnia–Herz,21,2.6,3,2,0.78,MF,Midfielder,PL0060,-0.96,1.6,False
+Cédric Bakambu,FW,cd Congo DR,35,2.1,3,0,0.0,FW,Forward,PL0061,-1.8824999999999998,3.1374999999999997,False
+Folarin Balogun,FW,us USA,24,3.5,14,5,1.44,FW,Forward,PL0062,-1.8824999999999998,3.1374999999999997,False
+Simon Banza,"FW,MF",cd Congo DR,29,0.4,0,0,0.0,FW,Forward,PL0063,-1.8824999999999998,3.1374999999999997,False
+Yoel Bárcenas,MF,pa Panama,32,2.8,2,0,0.0,MF,Midfielder,PL0064,-0.96,1.6,False
+Bradley Barcola,MF,fr France,23,4.3,10,5,1.17,MF,Midfielder,PL0065,-0.96,1.6,False
+Ivan Baši?,MF,ba Bosnia–Herz,24,2.0,4,0,0.0,MF,Midfielder,PL0066,-0.96,1.6,False
+Martin Baturina,"MF,FW",hr Croatia,23,3.6,3,1,0.28,MF,Midfielder,PL0067,-0.96,1.6,False
+Ibrahim Bayesh,"MF,FW",iq Iraq,26,2.6,1,0,0.0,MF,Midfielder,PL0068,-0.96,1.6,False
+Samed Baždar,FW,ba Bosnia–Herz,22,0.3,0,0,0.0,FW,Forward,PL0069,-1.8824999999999998,3.1374999999999997,False
+Aziz Behich,MF,au Australia,35,2.4,1,1,0.41,MF,Midfielder,PL0070,-0.96,1.6,False
+Maximilian Beier,"FW,MF",de Germany,23,0.3,0,0,0.0,FW,Forward,PL0071,-1.8824999999999998,3.1374999999999997,False
+Joe Bell,MF,nz New Zealand,27,2.7,1,0,0.0,MF,Midfielder,PL0072,-0.96,1.6,False
+Jean-Ricner Bellegarde,MF,ht Haiti,27,2.9,6,0,0.0,MF,Midfielder,PL0073,-0.96,1.6,False
+Jude Bellingham,MF,eng England,22,6.8,19,13,1.91,MF,Midfielder,PL0074,-0.96,1.6,True
+Anis Ben Slimane,"MF,FW",tn Tunisia,25,2.7,1,1,0.37,MF,Midfielder,PL0075,-0.96,1.6,False
+Nadhir Benbouali,FW,dz Algeria,26,0.5,2,2,4.0,FW,Forward,PL0076,-1.8824999999999998,3.1374999999999997,True
+Gilson Benchimol,FW,cv Cabo Verde,24,0.9,0,0,0.0,FW,Forward,PL0077,-1.8824999999999998,3.1374999999999997,False
+Nabil Bentaleb,MF,dz Algeria,31,3.2,1,0,0.0,MF,Midfielder,PL0078,-0.96,1.6,False
+Rodrigo Bentancur,MF,uy Uruguay,28,3.0,4,0,0.0,MF,Midfielder,PL0079,-0.96,1.6,False
+Patrick Berg,MF,no Norway,28,4.9,3,0,0.0,MF,Midfielder,PL0080,-0.96,1.6,False
+Sander Berge,MF,no Norway,28,5.3,0,0,0.0,MF,Midfielder,PL0081,-0.96,1.6,False
+Lucas Bergvall,MF,se Sweden,20,2.0,2,0,0.0,MF,Midfielder,PL0082,-0.96,1.6,False
+Sebastian Berhalter,MF,us USA,25,2.1,3,1,0.48,MF,Midfielder,PL0083,-0.96,1.6,False
+Alexander Bernhardsson,MF,se Sweden,27,2.4,1,1,0.41,MF,Midfielder,PL0084,-0.96,1.6,False
+César Blackman,"MF,DF",pa Panama,28,2.0,2,1,0.51,MF,Midfielder,PL0085,-0.96,1.6,False
+Damián Bobadilla,MF,py Paraguay,24,2.1,0,0,0.0,MF,Midfielder,PL0086,-0.96,1.6,False
+Oscar Bobb,FW,no Norway,22,2.5,4,2,0.8,FW,Forward,PL0087,-1.8824999999999998,3.1374999999999997,False
+Theo Bongonda,"FW,MF",cd Congo DR,30,0.4,1,0,0.0,FW,Forward,PL0088,-1.8824999999999998,3.1374999999999997,False
+Ange-Yoan Bonny,FW,ci Côte d'Ivoire,22,2.6,1,1,0.38,FW,Forward,PL0089,-1.8824999999999998,3.1374999999999997,False
+Jordy Bos,"MF,DF",au Australia,23,3.4,5,2,0.58,MF,Midfielder,PL0090,-0.96,1.6,False
+Ayyoub Bouaddi,MF,ma Morocco,18,4.2,3,0,0.0,MF,Midfielder,PL0091,-0.96,1.6,False
+Hicham Boudaoui,MF,dz Algeria,26,1.4,0,0,0.0,MF,Midfielder,PL0092,-0.96,1.6,False
+Karim Boudiaf,MF,qa Qatar,35,1.1,1,0,0.0,MF,Midfielder,PL0093,-0.96,1.6,False
+Adil Boulbina,FW,dz Algeria,23,0.2,0,0,0.0,FW,Forward,PL0094,-1.8824999999999998,3.1374999999999997,False
+Brian Brobbey,FW,nl Netherlands,24,2.5,4,3,1.21,FW,Forward,PL0095,-1.8824999999999998,3.1374999999999997,False
+Tajon Buchanan,MF,ca Canada,27,4.2,6,3,0.72,MF,Midfielder,PL0096,-0.96,1.6,False
+Ante Budimir,FW,hr Croatia,34,1.7,3,1,0.58,FW,Forward,PL0097,-1.8824999999999998,3.1374999999999997,False
+Firas Al-Buraikan,FW,sa Saudi Arabia,26,2.6,0,0,0.0,FW,Forward,PL0098,-1.8824999999999998,3.1374999999999997,False
+Dženis Burni?,MF,ba Bosnia–Herz,28,0.2,1,0,0.0,MF,Midfielder,PL0099,-0.96,1.6,False
+Gustavo Caballero,"FW,MF",py Paraguay,24,1.1,1,1,0.94,FW,Forward,PL0100,-1.8824999999999998,3.1374999999999997,False
+Jovane Cabral,FW,cv Cabo Verde,28,1.5,2,0,0.0,FW,Forward,PL0101,-1.8824999999999998,3.1374999999999997,False
+Jordy Caicedo,FW,ec Ecuador,28,0.2,1,0,0.0,FW,Forward,PL0102,-1.8824999999999998,3.1374999999999997,False
+Moisés Caicedo,MF,ec Ecuador,24,4.0,4,1,0.25,MF,Midfielder,PL0103,-0.96,1.6,False
+Hakan Çalhano?lu,MF,tr Türkiye,32,2.0,11,2,1.0,MF,Midfielder,PL0104,-0.96,1.6,False
+Lamine Camara,MF,sn Senegal,22,2.8,3,0,0.0,MF,Midfielder,PL0105,-0.96,1.6,False
+Jaminton Campaz,"FW,MF",co Colombia,26,0.8,6,3,3.6,FW,Forward,PL0106,-1.8824999999999998,3.1374999999999997,True
+Agustín Canobbio,FW,uy Uruguay,27,2.5,4,1,0.4,FW,Forward,PL0107,-1.8824999999999998,3.1374999999999997,False
+Casemiro,MF,br Brazil,34,4.2,4,2,0.47,MF,Midfielder,PL0108,-0.96,1.6,False
+Josué Casimir,MF,ht Haiti,24,2.0,1,0,0.0,MF,Midfielder,PL0109,-0.96,1.6,False
+Kevin Castaño,MF,co Colombia,25,0.2,0,0,0.0,MF,Midfielder,PL0110,-0.96,1.6,False
+Jens Castrop,MF,kr Korea Republic,22,0.5,0,0,0.0,MF,Midfielder,PL0111,-0.96,1.6,False
+Lukáš ?erv,MF,cz Czechia,25,1.8,3,2,1.1,MF,Midfielder,PL0112,-0.96,1.6,False
+Fares Chaïbi,MF,dz Algeria,23,4.0,9,3,0.75,MF,Midfielder,PL0113,-0.96,1.6,False
+Firas Chaouat,FW,tn Tunisia,30,0.5,0,0,0.0,FW,Forward,PL0114,-1.8824999999999998,3.1374999999999997,False
+Luis Chávez,MF,mx Mexico,30,0.3,0,0,0.0,MF,Midfielder,PL0115,-0.96,1.6,False
+Rayan Cherki,MF,fr France,22,1.4,1,1,0.69,MF,Midfielder,PL0116,-0.96,1.6,False
+Mathieu Choinière,MF,ca Canada,27,0.6,0,0,0.0,MF,Midfielder,PL0117,-0.96,1.6,False
+Tahith Chong,MF,cw Curaçao,26,2.7,4,2,0.73,MF,Midfielder,PL0118,-0.96,1.6,False
+Tomáš Chorý,FW,cz Czechia,31,0.3,0,0,0.0,FW,Forward,PL0119,-1.8824999999999998,3.1374999999999997,False
+Ryan Christie,MF,sct Scotland,31,1.1,2,0,0.0,MF,Midfielder,PL0120,-0.96,1.6,False
+Carney Chukwuemeka,MF,at Austria,22,0.9,2,1,1.08,MF,Midfielder,PL0121,-0.96,1.6,False
+Mojmír Chytil,FW,cz Czechia,27,0.1,0,0,0.0,FW,Forward,PL0122,-1.8824999999999998,3.1374999999999997,False
+Brian Cipenga,"MF,FW",cd Congo DR,28,1.6,6,1,0.62,MF,Midfielder,PL0123,-0.96,1.6,False
+Livano Comenencia,MF,cw Curaçao,22,2.6,5,2,0.77,MF,Midfielder,PL0124,-0.96,1.6,False
+Francisco Conceição,MF,pt Portugal,23,1.4,2,0,0.0,MF,Midfielder,PL0125,-0.96,1.6,False
+Jhon Córdoba,FW,co Colombia,33,1.1,2,1,0.91,FW,Forward,PL0126,-1.8824999999999998,3.1374999999999997,False
+Nuno da Costa,FW,cv Cabo Verde,35,1.8,1,0,0.0,FW,Forward,PL0127,-1.8824999999999998,3.1374999999999997,False
+Samu Costa,MF,pt Portugal,25,0.2,0,0,0.0,MF,Midfielder,PL0128,-0.96,1.6,False
+Vladimír Coufal,"MF,DF",cz Czechia,33,3.0,1,0,0.0,MF,Midfielder,PL0129,-0.96,1.6,False
+Andrés Cubas,MF,py Paraguay,30,5.3,1,0,0.0,MF,Midfielder,PL0130,-0.96,1.6,False
+Cucho,"FW,MF",co Colombia,27,0.6,1,0,0.0,FW,Forward,PL0131,-1.8824999999999998,3.1374999999999997,False
+Matheus Cunha,FW,br Brazil,27,3.2,11,5,1.55,FW,Forward,PL0132,-1.8824999999999998,3.1374999999999997,False
+Findlay Curtis,MF,sct Scotland,19,0.1,0,0,0.0,MF,Midfielder,PL0133,-0.96,1.6,False
+Vladimír Darida,MF,cz Czechia,35,0.6,1,0,0.0,MF,Midfielder,PL0134,-0.96,1.6,False
+Jonathan David,FW,ca Canada,26,4.7,18,8,1.71,FW,Forward,PL0135,-1.8824999999999998,3.1374999999999997,False
+Promise David,FW,ca Canada,24,0.9,5,3,3.38,FW,Forward,PL0136,-1.8824999999999998,3.1374999999999997,True
+Nasser Al-Dawsari,MF,sa Saudi Arabia,27,2.3,1,0,0.0,MF,Midfielder,PL0137,-0.96,1.6,False
+Salem Al-Dawsari,MF,sa Saudi Arabia,34,2.7,3,0,0.0,MF,Midfielder,PL0138,-0.96,1.6,False
+Kevin De Bruyne,MF,be Belgium,34,4.2,20,5,1.18,MF,Midfielder,PL0139,-0.96,1.6,False
+Charles De Ketelaere,"FW,MF",be Belgium,25,3.9,6,5,1.29,FW,Forward,PL0140,-1.8824999999999998,3.1374999999999997,False
+Nicolás De La Cruz,MF,uy Uruguay,29,1.0,4,2,2.09,MF,Midfielder,PL0141,-0.96,1.6,True
+Rodrigo De Paul,MF,ar Argentina,32,5.5,2,1,0.18,MF,Midfielder,PL0142,-0.96,1.6,False
+Louicius Deedson,MF,ht Haiti,25,1.2,2,0,0.0,MF,Midfielder,PL0143,-0.96,1.6,False
+Ousmane Dembélé,MF,fr France,29,6.6,20,10,1.52,MF,Midfielder,PL0144,-0.96,1.6,False
+Ermedin Demirovi?,FW,ba Bosnia–Herz,28,3.9,4,4,1.02,FW,Forward,PL0145,-1.8824999999999998,3.1374999999999997,False
+Sergiño Dest,MF,us USA,25,3.3,3,1,0.3,MF,Midfielder,PL0146,-0.96,1.6,False
+Oumar Diakité,FW,ci Côte d'Ivoire,22,0.3,0,0,0.0,FW,Forward,PL0147,-1.8824999999999998,3.1374999999999997,False
+Amad Diallo,"MF,FW",ci Côte d'Ivoire,23,2.1,8,4,1.95,MF,Midfielder,PL0148,-0.96,1.6,True
+Assane Diao,MF,sn Senegal,20,0.1,0,0,0.0,MF,Midfielder,PL0149,-0.96,1.6,False
+Habib Diarra,MF,sn Senegal,22,1.6,4,2,1.26,MF,Midfielder,PL0150,-0.96,1.6,False
+Brahim Díaz,MF,ma Morocco,26,5.1,6,1,0.2,MF,Midfielder,PL0151,-0.96,1.6,False
+Ismael Díaz,"FW,MF",pa Panama,29,0.4,6,2,4.86,FW,Forward,PL0152,-1.8824999999999998,3.1374999999999997,True
+Luis Díaz,"FW,MF",co Colombia,29,5.3,19,6,1.13,FW,Forward,PL0153,-1.8824999999999998,3.1374999999999997,False
+Bamba Dieng,FW,sn Senegal,26,0.1,0,0,0.0,FW,Forward,PL0154,-1.8824999999999998,3.1374999999999997,False
+Yan Diomandé,"MF,FW",ci Côte d'Ivoire,19,3.7,4,0,0.0,MF,Midfielder,PL0155,-0.96,1.6,False
+Ritsu Doan,MF,jp Japan,27,3.1,1,0,0.0,MF,Midfielder,PL0156,-0.96,1.6,False
+Jeremy Doku,MF,be Belgium,24,3.4,3,1,0.29,MF,Midfielder,PL0157,-0.96,1.6,False
+David Doud?ra,MF,cz Czechia,28,1.0,4,0,0.0,MF,Midfielder,PL0158,-0.96,1.6,False
+Désiré Doué,MF,fr France,21,4.4,13,8,1.8,MF,Midfielder,PL0159,-0.96,1.6,True
+Deroy Duarte,MF,cv Cabo Verde,26,2.9,3,2,0.68,MF,Midfielder,PL0160,-0.96,1.6,False
+Laros Duarte,MF,cv Cabo Verde,29,1.8,3,3,1.63,MF,Midfielder,PL0161,-0.96,1.6,True
+Lyndon Dykes,"FW,MF",sct Scotland,30,0.4,1,0,0.0,FW,Forward,PL0162,-1.8824999999999998,3.1374999999999997,False
+Edin Džeko,FW,ba Bosnia–Herz,40,2.0,3,0,0.0,FW,Forward,PL0163,-1.8824999999999998,3.1374999999999997,False
+Anthony Elanga,"MF,FW",se Sweden,24,2.4,3,3,1.24,MF,Midfielder,PL0164,-0.96,1.6,False
+Meschak Elia,"FW,MF",cd Congo DR,28,0.5,2,1,1.96,FW,Forward,PL0165,-1.8824999999999998,3.1374999999999997,False
+Breel Embolo,FW,ch Switzerland,29,5.6,10,5,0.9,FW,Forward,PL0166,-1.8824999999999998,3.1374999999999997,False
+Julio Enciso,FW,py Paraguay,22,4.3,8,1,0.23,FW,Forward,PL0167,-1.8824999999999998,3.1374999999999997,False
+Endrick,FW,br Brazil,19,1.3,3,0,0.0,FW,Forward,PL0168,-1.8824999999999998,3.1374999999999997,False
+Pervis Estupiñán,MF,ec Ecuador,28,1.0,0,0,0.0,MF,Midfielder,PL0169,-0.96,1.6,False
+Derrick Etienne,"FW,MF",ht Haiti,29,0.1,0,0,0.0,FW,Forward,PL0170,-1.8824999999999998,3.1374999999999997,False
+Stephen Eustáquio,MF,ca Canada,29,4.4,4,1,0.23,MF,Midfielder,PL0171,-0.96,1.6,False
+Saeid Ezatolahi,MF,ir IR Iran,29,2.9,6,2,0.68,MF,Midfielder,PL0172,-0.96,1.6,False
+Eberechi Eze,MF,eng England,27,2.3,5,0,0.0,MF,Midfielder,PL0173,-0.96,1.6,False
+José Fajardo,FW,pa Panama,32,1.7,1,0,0.0,FW,Forward,PL0174,-1.8824999999999998,3.1374999999999997,False
+Odeh Al-Fakhouri,"MF,FW",jo Jordan,20,1.6,2,1,0.61,MF,Midfielder,PL0175,-0.96,1.6,False
+Marko Farji,MF,iq Iraq,22,0.6,0,0,0.0,MF,Midfielder,PL0176,-0.96,1.6,False
+Christian Fassnacht,"FW,MF",ch Switzerland,32,0.1,0,0,0.0,FW,Forward,PL0177,-1.8824999999999998,3.1374999999999997,False
+Abdul Fatawu Issahaku,"FW,MF",gh Ghana,22,1.5,3,0,0.0,FW,Forward,PL0178,-1.8824999999999998,3.1374999999999997,False
+Ahmed Fathy,MF,qa Qatar,33,1.7,0,0,0.0,MF,Midfielder,PL0179,-0.96,1.6,False
+Abbosbek Fayzullayev,MF,uz Uzbekistan,22,2.4,3,2,0.82,MF,Midfielder,PL0180,-0.96,1.6,False
+João Félix,MF,pt Portugal,26,2.2,6,1,0.45,MF,Midfielder,PL0181,-0.96,1.6,False
+Lewis Ferguson,MF,sct Scotland,26,3.0,2,1,0.33,MF,Midfielder,PL0182,-0.96,1.6,False
+Bruno Fernandes,MF,pt Portugal,31,4.7,9,3,0.64,MF,Midfielder,PL0183,-0.96,1.6,False
+Enzo Fernández,MF,ar Argentina,25,7.3,12,4,0.55,MF,Midfielder,PL0184,-0.96,1.6,False
+Matias Fernandez-Pardo,"FW,MF",be Belgium,21,0.5,3,0,0.0,FW,Forward,PL0185,-1.8824999999999998,3.1374999999999997,False
+Álvaro Fidalgo,MF,mx Mexico,29,1.1,3,2,1.87,MF,Midfielder,PL0186,-0.96,1.6,True
+Seko Fofana,MF,ci Côte d'Ivoire,31,1.0,5,1,0.98,MF,Midfielder,PL0187,-0.96,1.6,False
+Yassin Fortuné,"FW,MF",ht Haiti,27,0.1,0,0,0.0,FW,Forward,PL0188,-1.8824999999999998,3.1374999999999997,False
+Lyle Foster,FW,za South Africa,25,0.6,1,0,0.0,FW,Forward,PL0189,-1.8824999999999998,3.1374999999999997,False
+Remo Freuler,MF,ch Switzerland,34,6.6,2,1,0.15,MF,Midfielder,PL0190,-0.96,1.6,False
+Jassem Gaber,MF,qa Qatar,24,1.7,0,0,0.0,MF,Midfielder,PL0191,-0.96,1.6,False
+Cody Gakpo,FW,nl Netherlands,27,4.1,10,6,1.47,FW,Forward,PL0192,-1.8824999999999998,3.1374999999999997,False
+Matías Galarza,MF,py Paraguay,24,4.3,2,1,0.23,MF,Midfielder,PL0193,-0.96,1.6,False
+Ahmed Al-Ganehi,FW,qa Qatar,25,0.4,1,0,0.0,FW,Forward,PL0194,-1.8824999999999998,3.1374999999999997,False
+Ben Gannon-Doak,MF,sct Scotland,20,2.1,4,0,0.0,MF,Midfielder,PL0195,-0.96,1.6,False
+Gavi,FW,es Spain,21,0.8,1,0,0.0,FW,Forward,PL0196,-1.8824999999999998,3.1374999999999997,False
+Ismaël Gharbi,MF,tn Tunisia,22,1.4,3,0,0.0,MF,Midfielder,PL0197,-0.96,1.6,False
+Mehdi Ghayedi,FW,ir IR Iran,27,0.5,1,0,0.0,FW,Forward,PL0198,-1.8824999999999998,3.1374999999999997,False
+Saman Ghoddos,MF,ir IR Iran,32,2.3,4,0,0.0,MF,Midfielder,PL0199,-0.96,1.6,False
+Mohammad Ghorbani,MF,ir IR Iran,25,1.0,2,1,1.0,MF,Midfielder,PL0200,-0.96,1.6,False
+Armin Gigovic,MF,ba Bosnia–Herz,24,0.9,0,0,0.0,MF,Midfielder,PL0201,-0.96,1.6,False
+Santiago Giménez,FW,mx Mexico,25,1.0,2,1,1.05,FW,Forward,PL0202,-1.8824999999999998,3.1374999999999997,False
+Diego Gómez,MF,py Paraguay,23,3.4,6,0,0.0,MF,Midfielder,PL0203,-0.96,1.6,False
+Armando González,FW,mx Mexico,23,0.2,0,0,0.0,FW,Forward,PL0204,-1.8824999999999998,3.1374999999999997,False
+Nicolás González,MF,ar Argentina,28,2.9,7,1,0.35,MF,Midfielder,PL0205,-0.96,1.6,False
+Anthony Gordon,MF,eng England,25,4.4,6,4,0.91,MF,Midfielder,PL0206,-0.96,1.6,False
+Leon Goretzka,MF,de Germany,31,1.1,2,0,0.0,MF,Midfielder,PL0207,-0.96,1.6,False
+Kenji Gorré,"FW,MF",cw Curaçao,31,0.2,0,0,0.0,FW,Forward,PL0208,-1.8824999999999998,3.1374999999999997,False
+Keisuke Got?,FW,jp Japan,21,0.1,0,0,0.0,FW,Forward,PL0209,-1.8824999999999998,3.1374999999999997,False
+Amine Gouiri,FW,dz Algeria,26,2.8,3,2,0.72,FW,Forward,PL0210,-1.8824999999999998,3.1374999999999997,False
+Ryan Gravenberch,MF,nl Netherlands,24,3.8,5,0,0.0,MF,Midfielder,PL0211,-0.96,1.6,False
+Michael Gregoritsch,FW,at Austria,32,2.1,1,0,0.0,FW,Forward,PL0212,-1.8824999999999998,3.1374999999999997,False
+Gabriel Gudmundsson,"MF,DF",se Sweden,27,3.7,0,0,0.0,MF,Midfielder,PL0213,-0.96,1.6,False
+Cho Gue-sung,FW,kr Korea Republic,28,0.3,2,1,2.9,FW,Forward,PL0214,-1.8824999999999998,3.1374999999999997,False
+Evann Guessand,"FW,MF",ci Côte d'Ivoire,24,0.2,1,0,0.0,FW,Forward,PL0215,-1.8824999999999998,3.1374999999999997,False
+Idrissa Gueye,MF,sn Senegal,36,4.0,5,1,0.25,MF,Midfielder,PL0216,-0.96,1.6,False
+Pape Gueye,MF,sn Senegal,27,2.6,8,3,1.15,MF,Midfielder,PL0217,-0.96,1.6,False
+Bruno Guimarães,MF,br Brazil,28,4.6,8,2,0.43,MF,Midfielder,PL0218,-0.96,1.6,False
+Deniz Gül,FW,tr Türkiye,21,0.4,2,1,2.43,FW,Forward,PL0219,-1.8824999999999998,3.1374999999999997,False
+Arda Güler,MF,tr Türkiye,21,3.0,12,4,1.33,MF,Midfielder,PL0220,-0.96,1.6,False
+Brian Gutiérrez,MF,mx Mexico,22,2.2,6,0,0.0,MF,Midfielder,PL0221,-0.96,1.6,False
+Viktor Gyökeres,FW,se Sweden,28,4.0,12,6,1.5,FW,Forward,PL0222,-1.8824999999999998,3.1374999999999997,False
+Aziz G?aniyev,MF,uz Uzbekistan,28,1.4,1,0,0.0,MF,Midfielder,PL0223,-0.96,1.6,False
+Erling Haaland,FW,no Norway,25,5.2,20,13,2.52,FW,Forward,PL0224,-1.8824999999999998,3.1374999999999997,False
+Anis Hadj Moussa,MF,dz Algeria,24,1.1,2,0,0.0,MF,Midfielder,PL0225,-0.96,1.6,False
+Amir Hadžiahmetovi?,MF,ba Bosnia–Herz,29,0.1,0,0,0.0,MF,Midfielder,PL0226,-0.96,1.6,False
+Ali Al Hamadi,FW,iq Iraq,24,2.0,6,0,0.0,FW,Forward,PL0227,-1.8824999999999998,3.1374999999999997,False
+Abdullah Al-Hamdan,FW,sa Saudi Arabia,26,0.8,2,2,2.54,FW,Forward,PL0228,-1.8824999999999998,3.1374999999999997,False
+Odiljon Hamrobekov,MF,uz Uzbekistan,30,0.9,1,0,0.0,MF,Midfielder,PL0229,-0.96,1.6,False
+Sontje Hansen,FW,cw Curaçao,24,0.5,1,1,2.0,FW,Forward,PL0230,-1.8824999999999998,3.1374999999999997,False
+Carlos Harvey,MF,pa Panama,26,3.0,5,0,0.0,MF,Midfielder,PL0231,-0.96,1.6,False
+Haissem Hassan,MF,eg Egypt,24,1.4,1,0,0.0,MF,Midfielder,PL0232,-0.96,1.6,False
+Abdulaziz Hatem,MF,qa Qatar,36,0.5,0,0,0.0,MF,Midfielder,PL0233,-0.96,1.6,False
+Kai Havertz,FW,de Germany,27,3.9,12,7,1.78,FW,Forward,PL0234,-1.8824999999999998,3.1374999999999997,False
+Hassan Al-Haydos,MF,qa Qatar,35,0.6,1,1,1.58,MF,Midfielder,PL0235,-0.96,1.6,False
+Hwang Hee-chan,FW,kr Korea Republic,30,1.2,1,0,0.0,FW,Forward,PL0236,-1.8824999999999998,3.1374999999999997,False
+Alaa Al Hejji,MF,sa Saudi Arabia,30,0.4,0,0,0.0,MF,Midfielder,PL0237,-0.96,1.6,False
+Jordan Henderson,MF,eng England,35,0.1,0,0,0.0,MF,Midfielder,PL0238,-0.96,1.6,False
+Luiz Henrique,"FW,MF",br Brazil,25,0.3,0,0,0.0,FW,Forward,PL0239,-1.8824999999999998,3.1374999999999997,False
+Son Heung-min,FW,kr Korea Republic,33,1.9,7,1,0.53,FW,Forward,PL0240,-1.8824999999999998,3.1374999999999997,False
+Adam Hložek,FW,cz Czechia,23,1.7,3,1,0.58,FW,Forward,PL0241,-1.8824999999999998,3.1374999999999997,False
+Amirhossein Hosseinzadeh,FW,ir IR Iran,25,0.2,1,0,0.0,FW,Forward,PL0242,-1.8824999999999998,3.1374999999999997,False
+Ajdin Hrustic,MF,au Australia,29,0.9,3,0,0.0,MF,Midfielder,PL0243,-0.96,1.6,False
+César Huerta,"FW,MF",mx Mexico,25,0.1,0,0,0.0,FW,Forward,PL0244,-1.8824999999999998,3.1374999999999997,False
+Al-Hashmi Al-Hussain,MF,qa Qatar,22,0.4,0,0,0.0,MF,Midfielder,PL0245,-0.96,1.6,False
+Ayman Hussein,FW,iq Iraq,30,1.3,3,1,0.78,FW,Forward,PL0246,-1.8824999999999998,3.1374999999999997,False
+Oh Hyeon-gyu,FW,kr Korea Republic,25,1.4,4,2,1.4,FW,Forward,PL0247,-1.8824999999999998,3.1374999999999997,False
+Yang Hyun-jun,"FW,MF",kr Korea Republic,24,0.2,1,1,4.5,FW,Forward,PL0248,-1.8824999999999998,3.1374999999999997,True
+Hwang In-beom,MF,kr Korea Republic,29,2.9,4,2,0.68,MF,Midfielder,PL0249,-0.96,1.6,False
+Christ Inao Oulaï,MF,ci Côte d'Ivoire,20,2.3,2,0,0.0,MF,Midfielder,PL0250,-0.96,1.6,False
+Zidane Iqbal,MF,iq Iraq,23,2.1,0,0,0.0,MF,Midfielder,PL0251,-0.96,1.6,False
+Nestory Irankunda,"FW,MF",au Australia,20,2.9,6,2,0.69,FW,Forward,PL0252,-1.8824999999999998,3.1374999999999997,False
+Jackson Irvine,MF,au Australia,33,2.5,3,1,0.4,MF,Midfielder,PL0253,-0.96,1.6,False
+Alexander Isak,FW,se Sweden,26,4.0,8,6,1.51,FW,Forward,PL0254,-1.8824999999999998,3.1374999999999997,False
+Wilson Isidor,FW,ht Haiti,25,2.1,5,2,0.97,FW,Forward,PL0255,-1.8824999999999998,3.1374999999999997,False
+Jamshid Iskanderov,"FW,MF",uz Uzbekistan,32,0.1,0,0,0.0,FW,Forward,PL0256,-1.8824999999999998,3.1374999999999997,False
+Zaid Ismail,MF,iq Iraq,24,1.3,0,0,0.0,MF,Midfielder,PL0257,-0.96,1.6,False
+Junya It?,MF,jp Japan,33,2.4,3,1,0.42,MF,Midfielder,PL0258,-0.96,1.6,False
+Cedric Itten,"FW,MF",ch Switzerland,29,0.5,0,0,0.0,FW,Forward,PL0259,-1.8824999999999998,3.1374999999999997,False
+Nicolas Jackson,FW,sn Senegal,24,2.6,7,3,1.15,FW,Forward,PL0260,-1.8824999999999998,3.1374999999999997,False
+Lee Jae-sung,FW,kr Korea Republic,33,1.3,2,1,0.77,FW,Forward,PL0261,-1.8824999999999998,3.1374999999999997,False
+Alireza Jahanbakhsh,"FW,MF",ir IR Iran,32,0.5,1,0,0.0,FW,Forward,PL0262,-1.8824999999999998,3.1374999999999997,False
+Amer Jamous,MF,jo Jordan,23,0.2,0,0,0.0,MF,Midfielder,PL0263,-0.96,1.6,False
+Ardon Jashari,MF,ch Switzerland,23,0.8,2,0,0.0,MF,Midfielder,PL0264,-0.96,1.6,False
+Ali Jasim,MF,iq Iraq,22,1.4,4,1,0.7,MF,Midfielder,PL0265,-0.96,1.6,False
+Danley Jean-Jacques,MF,ht Haiti,26,2.9,0,0,0.0,MF,Midfielder,PL0266,-0.96,1.6,False
+Eom Ji-sung,MF,kr Korea Republic,24,0.5,0,0,0.0,MF,Midfielder,PL0267,-0.96,1.6,False
+Raúl Jiménez,FW,mx Mexico,35,3.5,18,7,1.99,FW,Forward,PL0268,-1.8824999999999998,3.1374999999999997,False
+Kim Jin-gyu,MF,kr Korea Republic,29,0.6,1,0,0.0,MF,Midfielder,PL0269,-0.96,1.6,False
+Frenkie de Jong,MF,nl Netherlands,29,3.6,1,0,0.0,MF,Midfielder,PL0270,-0.96,1.6,False
+Lenny Joseph,FW,ht Haiti,25,1.3,2,0,0.0,FW,Forward,PL0271,-1.8824999999999998,3.1374999999999997,False
+Edmilson Junior,"MF,FW",qa Qatar,31,2.3,3,2,0.86,MF,Midfielder,PL0272,-0.96,1.6,False
+Vinicius Júnior,FW,br Brazil,25,4.9,17,11,2.25,FW,Forward,PL0273,-1.8824999999999998,3.1374999999999997,False
+Elijah Just,MF,nz New Zealand,26,2.9,7,5,1.7,MF,Midfielder,PL0274,-0.96,1.6,True
+Musab Al Juwayr,"MF,FW",sa Saudi Arabia,22,1.7,0,0,0.0,MF,Midfielder,PL0275,-0.96,1.6,False
+Ayoub El Kaabi,FW,ma Morocco,32,0.8,3,2,2.61,FW,Forward,PL0276,-1.8824999999999998,3.1374999999999997,False
+Kaku,MF,py Paraguay,31,0.1,0,0,0.0,MF,Midfielder,PL0277,-0.96,1.6,False
+Saša Kalajdži?,FW,at Austria,28,0.9,4,1,1.17,FW,Forward,PL0278,-1.8824999999999998,3.1374999999999997,False
+Daichi Kamada,MF,jp Japan,29,3.7,3,2,0.55,MF,Midfielder,PL0279,-0.96,1.6,False
+Harry Kane,FW,eng England,32,7.2,23,12,1.66,FW,Forward,PL0280,-1.8824999999999998,3.1374999999999997,False
+Lee Kang-in,FW,kr Korea Republic,25,3.0,4,1,0.33,FW,Forward,PL0281,-1.8824999999999998,3.1374999999999997,False
+Mohamed Kanno,MF,sa Saudi Arabia,31,2.5,3,2,0.8,MF,Midfielder,PL0282,-0.96,1.6,False
+Jesper Karlström,MF,se Sweden,30,1.5,1,0,0.0,MF,Midfielder,PL0283,-0.96,1.6,False
+Gervane Kastaneer,"FW,MF",cw Curaçao,30,0.3,1,0,0.0,FW,Forward,PL0284,-1.8824999999999998,3.1374999999999997,False
+Edo Kayembe,MF,cd Congo DR,28,1.8,2,1,0.56,MF,Midfielder,PL0285,-0.96,1.6,False
+Franck Kessié,MF,ci Côte d'Ivoire,29,3.8,4,2,0.52,MF,Midfielder,PL0286,-0.96,1.6,False
+Abdullah Al-Khaibari,MF,sa Saudi Arabia,29,2.0,1,0,0.0,MF,Midfielder,PL0287,-0.96,1.6,False
+Dostonbek Khamdamov,MF,uz Uzbekistan,29,1.1,2,0,0.0,MF,Midfielder,PL0288,-0.96,1.6,False
+Bilal El Khannouss,"MF,FW",ma Morocco,22,5.1,6,4,0.78,MF,Midfielder,PL0289,-0.96,1.6,False
+Rani Khedira,MF,tn Tunisia,32,1.7,1,0,0.0,MF,Midfielder,PL0290,-0.96,1.6,False
+Justin Kluivert,"FW,MF",nl Netherlands,27,0.3,0,0,0.0,FW,Forward,PL0291,-1.8824999999999998,3.1374999999999997,False
+Orkun Kökçü,MF,tr Türkiye,25,1.7,3,0,0.0,MF,Midfielder,PL0292,-0.96,1.6,False
+Ismaël Koné,MF,ca Canada,23,1.6,2,0,0.0,MF,Midfielder,PL0293,-0.96,1.6,False
+Manu Koné,MF,fr France,25,4.3,6,2,0.47,MF,Midfielder,PL0294,-0.96,1.6,False
+Mateo Kova?i?,MF,hr Croatia,32,3.0,5,4,1.33,MF,Midfielder,PL0295,-0.96,1.6,False
+Andrej Kramari?,"FW,MF",hr Croatia,34,0.7,1,0,0.0,FW,Forward,PL0296,-1.8824999999999998,3.1374999999999997,False
+Takefusa Kubo,MF,jp Japan,25,0.8,1,0,0.0,MF,Midfielder,PL0297,-0.96,1.6,False
+Prince Kwabena Adu,FW,gh Ghana,22,0.4,1,1,2.31,FW,Forward,PL0298,-1.8824999999999998,3.1374999999999997,False
+Konrad Laimer,"MF,DF",at Austria,29,4.0,1,0,0.0,MF,Midfielder,PL0299,-0.96,1.6,False
+Noa Lang,"FW,MF",nl Netherlands,26,0.1,0,0,0.0,FW,Forward,PL0300,-1.8824999999999998,3.1374999999999997,False
+Cyle Larin,FW,ca Canada,31,2.1,9,4,1.89,FW,Forward,PL0301,-1.8824999999999998,3.1374999999999997,False
+Mohanad Lasheen,MF,eg Egypt,30,4.0,2,0,0.0,MF,Midfielder,PL0302,-0.96,1.6,False
+Issa Laye,"MF,DF",qa Qatar,28,3.0,1,0,0.0,MF,Midfielder,PL0303,-0.96,1.6,False
+Rafael Leão,MF,pt Portugal,27,1.8,4,1,0.57,MF,Midfielder,PL0304,-0.96,1.6,False
+Mathew Leckie,MF,au Australia,35,0.7,1,0,0.0,MF,Midfielder,PL0305,-0.96,1.6,False
+Jefferson Lerma,MF,co Colombia,31,4.6,5,1,0.22,MF,Midfielder,PL0306,-0.96,1.6,False
+Jamie Leweling,"FW,MF",de Germany,25,0.3,1,0,0.0,FW,Forward,PL0307,-1.8824999999999998,3.1374999999999997,False
+Erik Lira,MF,mx Mexico,26,3.8,0,0,0.0,MF,Midfielder,PL0308,-0.96,1.6,False
+Dailon Livramento,FW,cv Cabo Verde,25,1.9,1,0,0.0,FW,Forward,PL0309,-1.8824999999999998,3.1374999999999997,False
+Giovani Lo Celso,MF,ar Argentina,30,0.7,1,1,1.53,MF,Midfielder,PL0310,-0.96,1.6,False
+Jürgen Locadia,FW,cw Curaçao,32,2.6,1,0,0.0,FW,Forward,PL0311,-1.8824999999999998,3.1374999999999997,False
+Azarías Londoño,MF,pa Panama,24,0.6,1,0,0.0,MF,Midfielder,PL0312,-0.96,1.6,False
+Flaco López,FW,ar Argentina,25,0.2,1,0,0.0,FW,Forward,PL0313,-1.8824999999999998,3.1374999999999997,False
+José Luis Rodríguez,"MF,FW",pa Panama,27,2.6,3,1,0.39,MF,Midfielder,PL0314,-0.96,1.6,False
+Romelu Lukaku,FW,be Belgium,33,2.6,6,3,1.16,FW,Forward,PL0315,-1.8824999999999998,3.1374999999999997,False
+Dodi Lukebakio,MF,be Belgium,28,1.8,7,1,0.55,MF,Midfielder,PL0316,-0.96,1.6,False
+Jovo Luki?,FW,ba Bosnia–Herz,27,0.7,3,2,2.69,FW,Forward,PL0317,-1.8824999999999998,3.1374999999999997,False
+Awer Mabil,"FW,MF",au Australia,30,0.3,1,0,0.0,FW,Forward,PL0318,-1.8824999999999998,3.1374999999999997,False
+Alexis Mac Allister,MF,ar Argentina,27,8.3,13,4,0.48,MF,Midfielder,PL0319,-0.96,1.6,False
+Shuto Machino,FW,jp Japan,26,0.1,0,0,0.0,FW,Forward,PL0320,-1.8824999999999998,3.1374999999999997,False
+Assim Madibo,MF,qa Qatar,29,1.5,0,0,0.0,MF,Midfielder,PL0321,-0.96,1.6,False
+Noni Madueke,MF,eng England,24,3.2,6,1,0.31,MF,Midfielder,PL0322,-0.96,1.6,False
+Daizen Maeda,MF,jp Japan,28,2.7,2,1,0.37,MF,Midfielder,PL0323,-0.96,1.6,False
+Ermin Mahmi?,MF,ba Bosnia–Herz,21,0.8,4,2,2.65,MF,Midfielder,PL0324,-0.96,1.6,True
+Hadj Mahmoud,MF,tn Tunisia,26,0.5,0,0,0.0,MF,Midfielder,PL0325,-0.96,1.6,False
+Riyad Mahrez,MF,dz Algeria,35,2.9,6,3,1.03,MF,Midfielder,PL0326,-0.96,1.6,False
+Evidence Makgopa,FW,za South Africa,26,2.4,4,3,1.26,FW,Forward,PL0327,-1.8824999999999998,3.1374999999999997,False
+Donyell Malen,FW,nl Netherlands,27,2.1,4,2,0.97,FW,Forward,PL0328,-1.8824999999999998,3.1374999999999997,False
+Sadio Mané,"MF,FW",sn Senegal,34,4.0,6,3,0.75,MF,Midfielder,PL0329,-0.96,1.6,False
+Johan Manzambi,"MF,FW",ch Switzerland,20,2.2,6,3,1.36,MF,Midfielder,PL0330,-0.96,1.6,False
+Mahmoud Al-Mardi,MF,jo Jordan,32,1.4,1,1,0.69,MF,Midfielder,PL0331,-0.96,1.6,False
+Jearl Margaritha,"FW,MF",cw Curaçao,26,0.5,1,0,0.0,FW,Forward,PL0332,-1.8824999999999998,3.1374999999999997,False
+Omar Marmoush,"FW,MF",eg Egypt,27,3.6,11,1,0.28,FW,Forward,PL0333,-1.8824999999999998,3.1374999999999997,False
+Gabriel Martinelli,MF,br Brazil,24,1.6,2,1,0.63,MF,Midfielder,PL0334,-0.96,1.6,False
+Guillermo Martínez Ayala,FW,mx Mexico,31,0.8,0,0,0.0,FW,Forward,PL0335,-1.8824999999999998,3.1374999999999997,False
+Cristian Martínez,"MF,FW",pa Panama,29,2.7,1,0,0.0,MF,Midfielder,PL0336,-0.96,1.6,False
+Lautaro Martínez,FW,ar Argentina,28,3.4,10,4,1.16,FW,Forward,PL0337,-1.8824999999999998,3.1374999999999997,False
+Thapelo Maseko,"MF,FW",za South Africa,22,2.7,8,1,0.37,MF,Midfielder,PL0338,-0.96,1.6,False
+Hazem Mastouri,FW,tn Tunisia,28,1.0,3,2,2.02,FW,Forward,PL0339,-1.8824999999999998,3.1374999999999997,False
+Igor Matanovi?,FW,hr Croatia,23,1.1,4,2,1.89,FW,Forward,PL0340,-1.8824999999999998,3.1374999999999997,False
+Pape Matar Sarr,MF,sn Senegal,23,0.7,4,0,0.0,MF,Midfielder,PL0341,-0.96,1.6,False
+Jean-Philippe Mateta,FW,fr France,28,0.3,3,1,3.75,FW,Forward,PL0342,-1.8824999999999998,3.1374999999999997,True
+Mauricio,MF,py Paraguay,25,1.9,4,3,1.56,MF,Midfielder,PL0343,-0.96,1.6,False
+Fiston Mayele,FW,cd Congo DR,31,0.5,5,1,2.14,FW,Forward,PL0344,-1.8824999999999998,3.1374999999999997,False
+Ibrahim Maza,"MF,FW",dz Algeria,20,3.9,11,3,0.77,MF,Midfielder,PL0345,-0.96,1.6,False
+Kylian Mbappé,FW,fr France,27,7.7,41,23,2.98,FW,Forward,PL0346,-1.8824999999999998,3.1374999999999997,False
+Thalente Mbatha,MF,za South Africa,26,2.9,4,1,0.35,MF,Midfielder,PL0347,-0.96,1.6,False
+Ibrahim Mbaye,MF,sn Senegal,18,1.7,4,1,0.57,MF,Midfielder,PL0348,-0.96,1.6,False
+Nathanaël Mbuku,"MF,FW",cd Congo DR,24,1.6,3,2,1.26,MF,Midfielder,PL0349,-0.96,1.6,False
+Callum McCowatt,MF,nz New Zealand,27,1.8,4,3,1.7,MF,Midfielder,PL0350,-0.96,1.6,True
+John McGinn,MF,sct Scotland,31,2.9,3,1,0.35,MF,Midfielder,PL0351,-0.96,1.6,False
+Weston McKennie,MF,us USA,27,4.9,5,1,0.2,MF,Midfielder,PL0352,-0.96,1.6,False
+Kenny McLean,MF,sct Scotland,34,1.3,1,0,0.0,MF,Midfielder,PL0353,-0.96,1.6,False
+Scott McTominay,MF,sct Scotland,29,3.0,8,3,1.0,MF,Midfielder,PL0354,-0.96,1.6,False
+Hannibal Mejbri,MF,tn Tunisia,23,3.0,3,1,0.33,MF,Midfielder,PL0355,-0.96,1.6,False
+Amar Memi?,MF,ba Bosnia–Herz,25,2.5,3,1,0.4,MF,Midfielder,PL0356,-0.96,1.6,False
+Memphis,"FW,MF",nl Netherlands,32,0.6,0,0,0.0,FW,Forward,PL0357,-1.8824999999999998,3.1374999999999997,False
+Sultan Mendash,MF,sa Saudi Arabia,31,0.7,0,0,0.0,MF,Midfielder,PL0358,-0.96,1.6,False
+Ryan Mendes,"FW,MF",cv Cabo Verde,36,3.7,6,0,0.0,FW,Forward,PL0359,-1.8824999999999998,3.1374999999999997,False
+Mikel Merino,MF,es Spain,29,2.2,5,3,1.36,MF,Midfielder,PL0360,-0.96,1.6,False
+Lionel Messi,FW,ar Argentina,38,8.2,35,18,2.19,FW,Forward,PL0361,-1.8824999999999998,3.1374999999999997,False
+Connor Metcalfe,MF,au Australia,26,3.5,5,2,0.57,MF,Midfielder,PL0362,-0.96,1.6,False
+Liam Millar,MF,ca Canada,26,1.8,1,0,0.0,MF,Midfielder,PL0363,-0.96,1.6,False
+Alan Minda,MF,ec Ecuador,23,0.6,2,0,0.0,MF,Midfielder,PL0364,-0.96,1.6,False
+Luka Modri?,MF,hr Croatia,40,3.5,1,0,0.0,MF,Midfielder,PL0365,-0.96,1.6,False
+Relebohile Mofokeng,MF,za South Africa,21,1.9,3,1,0.53,MF,Midfielder,PL0366,-0.96,1.6,False
+Shahriar Moghanlou,FW,ir IR Iran,31,1.0,3,0,0.0,FW,Forward,PL0367,-1.8824999999999998,3.1374999999999997,False
+Mohammad Mohebi,MF,ir IR Iran,27,2.7,2,1,0.37,MF,Midfielder,PL0368,-0.96,1.6,False
+Teboho Mokoena,MF,za South Africa,29,3.0,4,2,0.67,MF,Midfielder,PL0369,-0.96,1.6,False
+Jamiro Monteiro,MF,cv Cabo Verde,32,3.1,5,1,0.32,MF,Midfielder,PL0370,-0.96,1.6,False
+Kim Moon-hwan,MF,kr Korea Republic,30,0.8,0,0,0.0,MF,Midfielder,PL0371,-0.96,1.6,False
+Gilberto Mora,MF,mx Mexico,17,2.4,5,0,0.0,MF,Midfielder,PL0372,-0.96,1.6,False
+Diego Moreira,MF,be Belgium,21,0.6,0,0,0.0,MF,Midfielder,PL0373,-0.96,1.6,False
+Tshepang Moremi,MF,za South Africa,25,0.4,0,0,0.0,MF,Midfielder,PL0374,-0.96,1.6,False
+Samir El Mourabet,MF,ma Morocco,20,0.9,0,0,0.0,MF,Midfielder,PL0375,-0.96,1.6,False
+Samuel Moutoussamy,MF,cd Congo DR,29,3.7,3,0,0.0,MF,Midfielder,PL0376,-0.96,1.6,False
+Akmal Mozgovoy,MF,uz Uzbekistan,27,2.4,1,0,0.0,MF,Midfielder,PL0377,-0.96,1.6,False
+Ngal'Ayel Mukau,MF,cd Congo DR,21,2.2,1,0,0.0,MF,Midfielder,PL0378,-0.96,1.6,False
+Petar Musa,FW,hr Croatia,28,1.2,1,1,0.82,FW,Forward,PL0379,-1.8824999999999998,3.1374999999999997,False
+Jamal Musiala,MF,de Germany,23,3.0,6,1,0.33,MF,Midfielder,PL0380,-0.96,1.6,False
+Keito Nakamura,MF,jp Japan,25,3.4,5,2,0.59,MF,Midfielder,PL0381,-0.96,1.6,False
+Duckens Nazon,"FW,MF",ht Haiti,32,0.3,1,1,3.75,FW,Forward,PL0382,-1.8824999999999998,3.1374999999999997,True
+Iliman Ndiaye,FW,sn Senegal,26,1.3,3,2,1.58,FW,Forward,PL0383,-1.8824999999999998,3.1374999999999997,False
+Dan Ndoye,"MF,FW",ch Switzerland,25,4.5,16,8,1.77,MF,Midfielder,PL0384,-0.96,1.6,True
+Pedro Neto,MF,pt Portugal,26,3.9,1,0,0.0,MF,Midfielder,PL0385,-0.96,1.6,False
+João Neves,MF,pt Portugal,21,4.3,3,1,0.23,MF,Midfielder,PL0386,-0.96,1.6,False
+Rúben Neves,MF,pt Portugal,29,0.6,2,0,0.0,MF,Midfielder,PL0387,-0.96,1.6,False
+Neymar,"FW,MF",br Brazil,34,0.4,3,2,4.62,FW,Forward,PL0388,-1.8824999999999998,3.1374999999999997,True
+Felix Nmecha,MF,de Germany,25,3.0,8,3,1.0,MF,Midfielder,PL0389,-0.96,1.6,False
+Tyrese Noslin,MF,cw Curaçao,23,0.2,0,0,0.0,MF,Midfielder,PL0390,-0.96,1.6,False
+Ernest Nuamah,MF,gh Ghana,22,1.0,0,0,0.0,MF,Midfielder,PL0391,-0.96,1.6,False
+Darwin Núñez,FW,uy Uruguay,26,1.7,2,0,0.0,FW,Forward,PL0392,-1.8824999999999998,3.1374999999999997,False
+Antonio Nusa,FW,no Norway,21,3.5,6,2,0.57,FW,Forward,PL0393,-1.8824999999999998,3.1374999999999997,False
+Benjamin Nygren,MF,se Sweden,24,1.4,1,0,0.0,MF,Midfielder,PL0394,-0.96,1.6,False
+Aiden O'Neill,MF,au Australia,27,4.0,2,0,0.0,MF,Midfielder,PL0395,-0.96,1.6,False
+K?ki Ogawa,FW,jp Japan,28,0.5,3,0,0.0,FW,Forward,PL0396,-1.8824999999999998,3.1374999999999997,False
+Braian Ojeda,MF,py Paraguay,25,0.2,0,0,0.0,MF,Midfielder,PL0397,-0.96,1.6,False
+Noah Okafor,"FW,MF",ch Switzerland,26,0.2,1,0,0.0,FW,Forward,PL0398,-1.8824999999999998,3.1374999999999997,False
+Paul Okon-Engstler,MF,au Australia,21,2.2,0,0,0.0,MF,Midfielder,PL0399,-0.96,1.6,False
+Ben Old,MF,nz New Zealand,23,1.0,0,0,0.0,MF,Midfielder,PL0400,-0.96,1.6,False
+Michael Olise,MF,fr France,24,7.2,20,5,0.7,MF,Midfielder,PL0401,-0.96,1.6,False
+Dani Olmo,MF,es Spain,28,5.5,13,2,0.37,MF,Midfielder,PL0402,-0.96,1.6,False
+Tani Oluwaseyi,FW,ca Canada,26,2.9,8,4,1.39,FW,Forward,PL0403,-1.8824999999999998,3.1374999999999997,False
+Ali Olwan,MF,jo Jordan,26,3.0,6,3,1.01,MF,Midfielder,PL0404,-0.96,1.6,False
+Amadou Onana,MF,be Belgium,24,1.2,2,0,0.0,MF,Midfielder,PL0405,-0.96,1.6,False
+Jonathan Osorio,MF,ca Canada,34,0.1,1,0,0.0,MF,Midfielder,PL0406,-0.96,1.6,False
+Azzedine Ounahi,MF,ma Morocco,26,4.8,5,3,0.62,MF,Midfielder,PL0407,-0.96,1.6,False
+Elisha Owusu,MF,gh Ghana,28,1.7,0,0,0.0,MF,Midfielder,PL0408,-0.96,1.6,False
+Mikel Oyarzabal,FW,es Spain,29,6.7,23,12,1.8,FW,Forward,PL0409,-1.8824999999999998,3.1374999999999997,False
+Salih Özcan,MF,tr Türkiye,28,1.1,0,0,0.0,MF,Midfielder,PL0410,-0.96,1.6,False
+Kendry Páez,MF,ec Ecuador,19,0.1,0,0,0.0,MF,Midfielder,PL0411,-0.96,1.6,False
+Lucas Paquetá,MF,br Brazil,28,2.6,5,1,0.39,MF,Midfielder,PL0412,-0.96,1.6,False
+Leandro Paredes,MF,ar Argentina,31,5.3,4,1,0.19,MF,Midfielder,PL0413,-0.96,1.6,False
+Thomas Partey,MF,gh Ghana,33,3.0,2,0,0.0,MF,Midfielder,PL0414,-0.96,1.6,False
+Marco Pašali?,MF,hr Croatia,25,1.1,3,2,1.82,MF,Midfielder,PL0415,-0.96,1.6,True
+Mario Pašali?,MF,hr Croatia,31,1.4,4,1,0.73,MF,Midfielder,PL0416,-0.96,1.6,False
+Aleksandar Pavlovic,MF,de Germany,22,3.0,4,1,0.33,MF,Midfielder,PL0417,-0.96,1.6,False
+Nicolás Paz,MF,ar Argentina,21,0.8,1,0,0.0,MF,Midfielder,PL0418,-0.96,1.6,False
+Pedri,MF,es Spain,23,5.5,5,2,0.36,MF,Midfielder,PL0419,-0.96,1.6,False
+Nicolas Pépé,FW,ci Côte d'Ivoire,31,2.6,6,3,1.15,FW,Forward,PL0420,-1.8824999999999998,3.1374999999999997,False
+Ricardo Pepi,FW,us USA,23,2.3,5,0,0.0,FW,Forward,PL0421,-1.8824999999999998,3.1374999999999997,False
+Ivan Periši?,"MF,DF",hr Croatia,37,4.0,2,2,0.5,MF,Midfielder,PL0422,-0.96,1.6,False
+Frantzdy Pierrot,FW,ht Haiti,31,1.6,3,1,0.63,FW,Forward,PL0423,-1.8824999999999998,3.1374999999999997,False
+Kevin Pina,MF,cv Cabo Verde,29,3.9,5,1,0.26,MF,Midfielder,PL0424,-0.96,1.6,False
+Orbelín Pineda,"FW,MF",mx Mexico,30,0.3,1,0,0.0,FW,Forward,PL0425,-1.8824999999999998,3.1374999999999997,False
+Yéremy Pino,"FW,MF",es Spain,23,0.8,0,0,0.0,FW,Forward,PL0426,-1.8824999999999998,3.1374999999999997,False
+Isidro Pitta,FW,py Paraguay,26,0.5,0,0,0.0,FW,Forward,PL0427,-1.8824999999999998,3.1374999999999997,False
+Gonzalo Plata,FW,ec Ecuador,25,4.0,8,5,1.25,FW,Forward,PL0428,-1.8824999999999998,3.1374999999999997,False
+Ruben Providence,MF,ht Haiti,24,2.4,4,1,0.41,MF,Midfielder,PL0429,-0.96,1.6,False
+Lukáš Provod,FW,cz Czechia,29,1.4,1,0,0.0,FW,Forward,PL0430,-1.8824999999999998,3.1374999999999997,False
+Gustavo Puerta,MF,co Colombia,22,5.2,14,5,0.96,MF,Midfielder,PL0431,-0.96,1.6,False
+Christian Pulisic,MF,us USA,27,2.5,4,2,0.81,MF,Midfielder,PL0432,-0.96,1.6,False
+Ahmed Qasem,"MF,FW",iq Iraq,22,1.4,0,0,0.0,MF,Midfielder,PL0433,-0.96,1.6,False
+Julián Quiñones,"FW,MF",mx Mexico,29,4.6,14,6,1.32,FW,Forward,PL0434,-1.8824999999999998,3.1374999999999997,False
+Juan Quintero,"FW,MF",co Colombia,33,1.3,4,0,0.0,FW,Forward,PL0435,-1.8824999999999998,3.1374999999999997,False
+Adrien Rabiot,MF,fr France,31,6.5,9,1,0.15,MF,Midfielder,PL0436,-0.96,1.6,False
+Soufiane Rahimi,FW,ma Morocco,30,1.8,6,4,2.21,FW,Forward,PL0437,-1.8824999999999998,3.1374999999999997,False
+Gonçalo Ramos,FW,pt Portugal,24,0.4,2,1,2.5,FW,Forward,PL0438,-1.8824999999999998,3.1374999999999997,False
+Jesse Randall,MF,nz New Zealand,23,0.7,1,0,0.0,MF,Midfielder,PL0439,-0.96,1.6,False
+Raphinha,"MF,FW",br Brazil,29,1.4,3,2,1.4,MF,Midfielder,PL0440,-0.96,1.6,False
+Nizar Al Rashdan,MF,jo Jordan,27,2.8,2,1,0.35,MF,Midfielder,PL0441,-0.96,1.6,False
+Marcus Rashford,MF,eng England,28,2.5,12,5,2.02,MF,Midfielder,PL0442,-0.96,1.6,True
+Nicolas Raskin,MF,be Belgium,25,3.8,2,1,0.26,MF,Midfielder,PL0443,-0.96,1.6,False
+Noor Al Rawabdeh,MF,jo Jordan,29,3.0,1,0,0.0,MF,Midfielder,PL0444,-0.96,1.6,False
+Rayan,"FW,MF",br Brazil,19,3.2,5,2,0.62,FW,Forward,PL0445,-1.8824999999999998,3.1374999999999997,False
+Iqraam Rayners,FW,za South Africa,30,1.8,1,0,0.0,FW,Forward,PL0446,-1.8824999999999998,3.1374999999999997,False
+Tijjani Reijnders,MF,nl Netherlands,27,2.2,4,2,0.9,MF,Midfielder,PL0447,-0.96,1.6,False
+Gio Reyna,MF,us USA,23,1.5,2,1,0.69,MF,Midfielder,PL0448,-0.96,1.6,False
+Declan Rice,MF,eng England,27,6.2,6,3,0.48,MF,Midfielder,PL0449,-0.96,1.6,False
+Fabian Rieder,"MF,FW",ch Switzerland,24,3.4,7,2,0.6,MF,Midfielder,PL0450,-0.96,1.6,False
+Richard Ríos,MF,co Colombia,26,1.6,5,1,0.64,MF,Midfielder,PL0451,-0.96,1.6,False
+Rodri,MF,es Spain,29,8.0,7,0,0.0,MF,Midfielder,PL0452,-0.96,1.6,False
+Garry Rodrigues,MF,cv Cabo Verde,35,0.8,1,0,0.0,MF,Midfielder,PL0453,-0.96,1.6,False
+Brian Rodríguez,"FW,MF",uy Uruguay,26,0.5,3,1,2.2,FW,Forward,PL0454,-1.8824999999999998,3.1374999999999997,False
+James Rodríguez,"FW,MF",co Colombia,34,3.5,6,3,0.86,FW,Forward,PL0455,-1.8824999999999998,3.1374999999999997,False
+Kevin Rodríguez,FW,ec Ecuador,26,1.3,6,1,0.76,FW,Forward,PL0456,-1.8824999999999998,3.1374999999999997,False
+Tomás Rodríguez,FW,pa Panama,27,0.5,1,1,1.96,FW,Forward,PL0457,-1.8824999999999998,3.1374999999999997,False
+Godfried Roemeratoe,MF,cw Curaçao,26,0.1,0,0,0.0,MF,Midfielder,PL0458,-0.96,1.6,False
+Morgan Rogers,MF,eng England,23,3.8,3,1,0.27,MF,Midfielder,PL0459,-0.96,1.6,False
+Luis Romo,MF,mx Mexico,31,2.9,3,1,0.34,MF,Midfielder,PL0460,-0.96,1.6,False
+Cristiano Ronaldo,FW,pt Portugal,41,4.9,18,9,1.84,FW,Forward,PL0461,-1.8824999999999998,3.1374999999999997,False
+Fabián Ruiz Peña,MF,es Spain,30,3.6,8,2,0.56,MF,Midfielder,PL0462,-0.96,1.6,False
+Elias Saad,"MF,FW",tn Tunisia,26,1.3,1,0,0.0,MF,Midfielder,PL0463,-0.96,1.6,False
+Mahmoud Saber,MF,eg Egypt,24,0.5,3,1,1.96,MF,Midfielder,PL0464,-0.96,1.6,True
+Marcel Sabitzer,MF,at Austria,32,4.0,5,2,0.5,MF,Midfielder,PL0465,-0.96,1.6,False
+Noah Sadiki,MF,cd Congo DR,21,2.9,0,0,0.0,MF,Midfielder,PL0466,-0.96,1.6,False
+Michal Sadílek,MF,cz Czechia,27,2.0,7,3,1.48,MF,Midfielder,PL0467,-0.96,1.6,False
+Alexis Saelemaekers,MF,be Belgium,26,0.9,4,1,1.08,MF,Midfielder,PL0468,-0.96,1.6,False
+Ismael Saibari,FW,ma Morocco,25,4.2,10,3,0.71,FW,Forward,PL0469,-1.8824999999999998,3.1374999999999997,False
+Bukayo Saka,MF,eng England,24,4.0,13,7,1.76,MF,Midfielder,PL0470,-0.96,1.6,True
+Mohamed Salah,"FW,MF",eg Egypt,33,4.7,9,4,0.85,FW,Forward,PL0471,-1.8824999999999998,3.1374999999999997,False
+Nathan Saliba,MF,ca Canada,22,2.0,3,1,0.49,MF,Midfielder,PL0472,-0.96,1.6,False
+Antonio Sanabria,FW,py Paraguay,30,0.9,0,0,0.0,FW,Forward,PL0473,-1.8824999999999998,3.1374999999999997,False
+Leroy Sané,MF,de Germany,30,3.6,6,2,0.55,MF,Midfielder,PL0474,-0.96,1.6,False
+Ibrahim Sangaré,MF,ci Côte d'Ivoire,28,3.0,1,0,0.0,MF,Midfielder,PL0475,-0.96,1.6,False
+Kaish? Sano,MF,jp Japan,25,3.0,1,1,0.33,MF,Midfielder,PL0476,-0.96,1.6,False
+Danilo Santos,MF,br Brazil,25,0.5,2,1,1.96,MF,Midfielder,PL0477,-0.96,1.6,True
+Bara Sapoko Ndiaye,MF,sn Senegal,18,0.3,1,1,3.46,MF,Midfielder,PL0478,-0.96,1.6,True
+Ismaila Sarr,"MF,FW",sn Senegal,28,4.0,17,6,1.48,MF,Midfielder,PL0479,-0.96,1.6,False
+Amine Sbai,"FW,MF",ma Morocco,25,0.1,0,0,0.0,FW,Forward,PL0480,-1.8824999999999998,3.1374999999999997,False
+Patrik Schick,FW,cz Czechia,30,2.0,2,1,0.5,FW,Forward,PL0481,-1.8824999999999998,3.1374999999999997,False
+Andreas Schjelderup,FW,no Norway,22,2.8,3,2,0.71,FW,Forward,PL0482,-1.8824999999999998,3.1374999999999997,False
+Xaver Schlager,MF,at Austria,28,2.6,1,0,0.0,MF,Midfielder,PL0483,-0.96,1.6,False
+Romano Schmid,"MF,FW",at Austria,26,2.9,2,1,0.34,MF,Midfielder,PL0484,-0.96,1.6,False
+Nicolas Seiwald,MF,at Austria,25,3.5,3,0,0.0,MF,Midfielder,PL0485,-0.96,1.6,False
+Ken Sema,"FW,MF",se Sweden,32,0.2,1,0,0.0,FW,Forward,PL0486,-1.8824999999999998,3.1374999999999997,False
+Willy Semedo,FW,cv Cabo Verde,32,1.5,3,0,0.0,FW,Forward,PL0487,-1.8824999999999998,3.1374999999999997,False
+Antoine Semenyo,"MF,FW",gh Ghana,26,4.0,6,0,0.0,MF,Midfielder,PL0488,-0.96,1.6,False
+Igor Sergeev,FW,uz Uzbekistan,33,0.3,0,0,0.0,FW,Forward,PL0489,-1.8824999999999998,3.1374999999999997,False
+Jean Seri,MF,ci Côte d'Ivoire,34,0.2,0,0,0.0,MF,Midfielder,PL0490,-0.96,1.6,False
+Paik Seung-ho,MF,kr Korea Republic,29,2.3,0,0,0.0,MF,Midfielder,PL0491,-0.96,1.6,False
+Jacob Shaffelburg,MF,ca Canada,26,1.0,3,0,0.0,MF,Midfielder,PL0492,-0.96,1.6,False
+Mohammed Abu Al-Shamat,MF,sa Saudi Arabia,23,1.5,1,1,0.66,MF,Midfielder,PL0493,-0.96,1.6,False
+Lawrence Shankland,FW,sct Scotland,30,1.9,4,0,0.0,FW,Forward,PL0494,-1.8824999999999998,3.1374999999999997,False
+Aimar Sher,MF,iq Iraq,23,0.3,0,0,0.0,MF,Midfielder,PL0495,-0.96,1.6,False
+Kento Shiogai,FW,jp Japan,21,0.1,0,0,0.0,FW,Forward,PL0496,-1.8824999999999998,3.1374999999999997,False
+Eldor Shomurodov,FW,uz Uzbekistan,30,3.0,4,2,0.67,FW,Forward,PL0497,-1.8824999999999998,3.1374999999999997,False
+Otabek Shukurov,MF,uz Uzbekistan,29,2.6,2,0,0.0,MF,Midfielder,PL0498,-0.96,1.6,False
+Kwasi Sibo,MF,gh Ghana,27,2.8,0,0,0.0,MF,Midfielder,PL0499,-0.96,1.6,False
+Niko Sigur,MF,ca Canada,22,1.4,1,0,0.0,MF,Midfielder,PL0500,-0.96,1.6,False
+Bernardo Silva,MF,pt Portugal,31,1.1,1,0,0.0,MF,Midfielder,PL0501,-0.96,1.6,False
+Éderson Silva,MF,br Brazil,26,0.2,2,0,0.0,MF,Midfielder,PL0502,-0.96,1.6,False
+Giuliano Simeone,FW,ar Argentina,23,2.1,1,0,0.0,FW,Forward,PL0503,-1.8824999999999998,3.1374999999999997,False
+Dominique Simon,MF,ht Haiti,25,0.6,1,1,1.61,MF,Midfielder,PL0504,-0.96,1.6,True
+Sarpreet Singh,MF,nz New Zealand,27,2.3,4,2,0.86,MF,Midfielder,PL0505,-0.96,1.6,False
+Sphephelo Sithole,MF,za South Africa,27,2.5,0,0,0.0,MF,Midfielder,PL0506,-0.96,1.6,False
+Ellyes Skhiri,"MF,DF",tn Tunisia,31,2.8,0,0,0.0,MF,Midfielder,PL0507,-0.96,1.6,False
+Alexandr Sojka,"MF,DF",cz Czechia,23,1.6,0,0,0.0,MF,Midfielder,PL0508,-0.96,1.6,False
+Ramón Sosa,"FW,MF",py Paraguay,26,0.1,0,0,0.0,FW,Forward,PL0509,-1.8824999999999998,3.1374999999999997,False
+Tomáš Sou?ek,MF,cz Czechia,31,1.5,1,0,0.0,MF,Midfielder,PL0510,-0.96,1.6,False
+Djibril Sow,MF,ch Switzerland,29,2.8,2,1,0.36,MF,Midfielder,PL0511,-0.96,1.6,False
+Marko Stamenic,MF,nz New Zealand,24,3.0,3,0,0.0,MF,Midfielder,PL0512,-0.96,1.6,False
+Angelo Stiller,MF,de Germany,25,0.5,0,0,0.0,MF,Midfielder,PL0513,-0.96,1.6,False
+Jørgen Strand Larsen,FW,no Norway,26,1.2,2,1,0.86,FW,Forward,PL0514,-1.8824999999999998,3.1374999999999997,False
+Elliot Stroud,MF,se Sweden,23,1.8,1,0,0.0,MF,Midfielder,PL0515,-0.96,1.6,False
+Luis Suárez,FW,co Colombia,28,3.7,9,0,0.0,FW,Forward,PL0516,-1.8824999999999998,3.1374999999999997,False
+Luka Su?i?,"FW,MF",hr Croatia,23,0.2,1,0,0.0,FW,Forward,PL0517,-1.8824999999999998,3.1374999999999997,False
+Petar Su?i?,"MF,FW",hr Croatia,22,3.2,3,2,0.62,MF,Midfielder,PL0518,-0.96,1.6,False
+Yukinari Sugawara,MF,jp Japan,25,1.6,2,2,1.22,MF,Midfielder,PL0519,-0.96,1.6,False
+Pavel Šulc,FW,cz Czechia,25,2.1,2,0,0.0,FW,Forward,PL0520,-1.8824999999999998,3.1374999999999997,False
+Kamaldeen Sulemana,"MF,FW",gh Ghana,24,1.4,1,0,0.0,MF,Midfielder,PL0521,-0.96,1.6,False
+Crysencio Summerville,FW,nl Netherlands,24,2.8,2,2,0.71,FW,Forward,PL0522,-1.8824999999999998,3.1374999999999997,False
+Ivan Šunji?,MF,ba Bosnia–Herz,29,2.2,1,1,0.46,MF,Midfielder,PL0523,-0.96,1.6,False
+Yuito Suzuki,"FW,MF",jp Japan,24,0.1,0,0,0.0,FW,Forward,PL0524,-1.8824999999999998,3.1374999999999997,False
+Mattias Svanberg,MF,se Sweden,27,0.2,3,2,11.25,MF,Midfielder,PL0525,-0.96,1.6,True
+Alexander Sørloth,FW,no Norway,30,3.7,5,0,0.0,FW,Forward,PL0526,-1.8824999999999998,3.1374999999999997,False
+Musa Al-Taamari,FW,jo Jordan,29,2.4,8,3,1.26,FW,Forward,PL0527,-1.8824999999999998,3.1374999999999997,False
+Haris Tabakovi?,FW,ba Bosnia–Herz,31,0.2,0,0,0.0,FW,Forward,PL0528,-1.8824999999999998,3.1374999999999997,False
+Lee Tae-seok,MF,kr Korea Republic,23,1.3,0,0,0.0,MF,Midfielder,PL0529,-0.96,1.6,False
+Benjamin Tahirovic,MF,ba Bosnia–Herz,23,2.6,1,0,0.0,MF,Midfielder,PL0530,-0.96,1.6,False
+Chemsdine Talbi,MF,ma Morocco,21,2.0,2,0,0.0,MF,Midfielder,PL0531,-0.96,1.6,False
+Ao Tanaka,MF,jp Japan,27,2.1,2,0,0.0,MF,Midfielder,PL0532,-0.96,1.6,False
+Mehdi Taremi,FW,ir IR Iran,33,2.9,5,2,0.69,FW,Forward,PL0533,-1.8824999999999998,3.1374999999999997,False
+Aurélien Tchouaméni,MF,fr France,26,4.0,3,0,0.0,MF,Midfielder,PL0534,-0.96,1.6,False
+Igor Thiago,FW,br Brazil,24,0.7,2,1,1.48,FW,Forward,PL0535,-1.8824999999999998,3.1374999999999997,False
+Ryan Thomas,MF,nz New Zealand,31,0.9,0,0,0.0,MF,Midfielder,PL0536,-0.96,1.6,False
+Brandon Thomas-Asante,"FW,MF",gh Ghana,27,0.6,1,0,0.0,FW,Forward,PL0537,-1.8824999999999998,3.1374999999999997,False
+Morten Thorsby,MF,no Norway,30,0.5,0,0,0.0,MF,Midfielder,PL0538,-0.96,1.6,False
+Kristian Thorstvedt,MF,no Norway,27,0.7,3,1,1.43,MF,Midfielder,PL0539,-0.96,1.6,False
+Youri Tielemans,MF,be Belgium,29,5.3,11,3,0.57,MF,Midfielder,PL0540,-0.96,1.6,False
+Kieran Tierney,MF,sct Scotland,29,1.2,2,0,0.0,MF,Midfielder,PL0541,-0.96,1.6,False
+Guus Til,"FW,MF",nl Netherlands,28,0.4,0,0,0.0,FW,Forward,PL0542,-1.8824999999999998,3.1374999999999997,False
+Malik Tillman,MF,us USA,24,4.0,8,4,1.01,MF,Midfielder,PL0543,-0.96,1.6,False
+Quinten Timber,MF,nl Netherlands,24,0.6,0,0,0.0,MF,Midfielder,PL0544,-0.96,1.6,False
+Ivan Toney,FW,eng England,30,0.9,2,1,1.14,FW,Forward,PL0545,-1.8824999999999998,3.1374999999999997,False
+Mehdi Torabi,MF,ir IR Iran,31,0.3,0,0,0.0,MF,Midfielder,PL0546,-0.96,1.6,False
+Ferran Torres,FW,es Spain,26,3.2,14,4,1.25,FW,Forward,PL0547,-1.8824999999999998,3.1374999999999997,False
+Sebastian Tounekti,FW,tn Tunisia,23,0.9,0,0,0.0,FW,Forward,PL0548,-1.8824999999999998,3.1374999999999997,False
+Bazoumana Touré,MF,ci Côte d'Ivoire,20,0.9,0,0,0.0,MF,Midfielder,PL0549,-0.96,1.6,False
+Mo Touré,FW,au Australia,22,1.8,4,1,0.55,FW,Forward,PL0550,-1.8824999999999998,3.1374999999999997,False
+Trézéguet,MF,eg Egypt,31,1.8,8,3,1.65,MF,Midfielder,PL0551,-0.96,1.6,True
+Francisco Trincão,"FW,MF",pt Portugal,26,0.3,1,0,0.0,FW,Forward,PL0552,-1.8824999999999998,3.1374999999999997,False
+Leandro Trossard,"MF,FW",be Belgium,31,5.6,17,3,0.53,MF,Midfielder,PL0553,-0.96,1.6,False
+Ayase Ueda,FW,jp Japan,27,3.6,9,4,1.12,FW,Forward,PL0554,-1.8824999999999998,3.1374999999999997,False
+Manuel Ugarte,MF,uy Uruguay,25,2.0,3,1,0.49,MF,Midfielder,PL0555,-0.96,1.6,False
+Deniz Undav,FW,de Germany,29,1.7,6,4,2.38,FW,Forward,PL0556,-1.8824999999999998,3.1374999999999997,False
+Oston Urunov,MF,uz Uzbekistan,25,0.7,0,0,0.0,MF,Midfielder,PL0557,-0.96,1.6,False
+Can Uzun,MF,tr Türkiye,20,0.4,4,1,2.37,MF,Midfielder,PL0558,-0.96,1.6,True
+Enner Valencia,FW,ec Ecuador,36,3.2,10,6,1.88,FW,Forward,PL0559,-1.8824999999999998,3.1374999999999997,False
+Federico Valverde,MF,uy Uruguay,27,2.6,10,2,0.76,MF,Midfielder,PL0560,-0.96,1.6,False
+Hans Vanaken,MF,be Belgium,33,3.5,5,1,0.28,MF,Midfielder,PL0561,-0.96,1.6,False
+Hélio Varela,FW,cv Cabo Verde,24,1.2,3,1,0.87,FW,Forward,PL0562,-1.8824999999999998,3.1374999999999997,False
+Obed Vargas,MF,mx Mexico,20,0.7,1,1,1.36,MF,Midfielder,PL0563,-0.96,1.6,False
+Ruben Vargas,MF,ch Switzerland,27,3.2,6,4,1.27,MF,Midfielder,PL0564,-0.96,1.6,False
+Alexis Vega,"FW,MF",mx Mexico,28,0.1,0,0,0.0,FW,Forward,PL0565,-1.8824999999999998,3.1374999999999997,False
+Nishan Velupillay,MF,au Australia,25,0.8,0,0,0.0,MF,Midfielder,PL0566,-0.96,1.6,False
+Federico Viñas,FW,uy Uruguay,27,2.1,6,3,1.41,FW,Forward,PL0567,-1.8824999999999998,3.1374999999999997,False
+Denis Višinský,FW,cz Czechia,23,0.6,3,0,0.0,FW,Forward,PL0568,-1.8824999999999998,3.1374999999999997,False
+Pedro Vite,MF,ec Ecuador,24,4.0,4,1,0.25,MF,Midfielder,PL0569,-0.96,1.6,False
+Vitinha,MF,pt Portugal,26,4.2,4,0,0.0,MF,Midfielder,PL0570,-0.96,1.6,False
+Nikola Vlaši?,MF,hr Croatia,28,2.1,3,1,0.48,MF,Midfielder,PL0571,-0.96,1.6,False
+Cristian Volpato,MF,au Australia,22,1.8,4,1,0.56,MF,Midfielder,PL0572,-0.96,1.6,False
+Elye Wahi,FW,ci Côte d'Ivoire,23,1.2,3,2,1.64,FW,Forward,PL0573,-1.8824999999999998,3.1374999999999997,False
+Paul Wanner,MF,at Austria,20,2.6,1,0,0.0,MF,Midfielder,PL0574,-0.96,1.6,False
+Cecilio Waterman,FW,pa Panama,35,0.8,2,1,1.18,FW,Forward,PL0575,-1.8824999999999998,3.1374999999999997,False
+Ollie Watkins,"FW,MF",eng England,30,0.6,1,0,0.0,FW,Forward,PL0576,-1.8824999999999998,3.1374999999999997,False
+Timothy Weah,MF,us USA,26,0.8,2,0,0.0,MF,Midfielder,PL0577,-0.96,1.6,False
+Wout Weghorst,FW,nl Netherlands,33,0.6,0,0,0.0,FW,Forward,PL0578,-1.8824999999999998,3.1374999999999997,False
+Iñaki Williams,"MF,FW",gh Ghana,31,1.4,3,0,0.0,MF,Midfielder,PL0579,-0.96,1.6,False
+Nico Williams,MF,es Spain,23,1.3,4,2,1.59,MF,Midfielder,PL0580,-0.96,1.6,False
+Patrick Wimmer,"FW,MF",at Austria,25,0.2,1,0,0.0,FW,Forward,PL0581,-1.8824999999999998,3.1374999999999997,False
+Florian Wirtz,MF,de Germany,23,4.0,10,1,0.25,MF,Midfielder,PL0582,-0.96,1.6,False
+Yoane Wissa,FW,cd Congo DR,29,4.0,11,3,0.75,FW,Forward,PL0583,-1.8824999999999998,3.1374999999999997,False
+Nick Woltemade,"FW,MF",de Germany,24,0.4,2,0,0.0,FW,Forward,PL0584,-1.8824999999999998,3.1374999999999997,False
+Chris Wood,FW,nz New Zealand,34,3.0,5,2,0.67,FW,Forward,PL0585,-1.8824999999999998,3.1374999999999997,False
+Granit Xhaka,MF,ch Switzerland,33,6.7,9,2,0.3,MF,Midfielder,PL0586,-0.96,1.6,False
+Kevin Yakob,MF,iq Iraq,25,0.3,1,0,0.0,MF,Midfielder,PL0587,-0.96,1.6,False
+Lamine Yamal,"MF,FW",es Spain,18,6.8,27,12,1.76,MF,Midfielder,PL0588,-0.96,1.6,True
+Yannick,MF,cv Cabo Verde,30,0.4,1,0,0.0,MF,Midfielder,PL0589,-0.96,1.6,False
+Gessime Yassine,MF,ma Morocco,20,0.9,2,1,1.13,MF,Midfielder,PL0590,-0.96,1.6,False
+John Yeboah,MF,ec Ecuador,25,3.5,8,3,0.87,MF,Midfielder,PL0591,-0.96,1.6,False
+Tete Yengi,FW,au Australia,25,0.3,1,1,3.75,FW,Forward,PL0592,-1.8824999999999998,3.1374999999999997,True
+Kenan Y?ld?z,MF,tr Türkiye,21,2.4,14,1,0.41,MF,Midfielder,PL0593,-0.96,1.6,False
+Caleb Yirenkyi,MF,gh Ghana,20,2.9,2,1,0.34,MF,Midfielder,PL0594,-0.96,1.6,False
+Seol Young-woo,MF,kr Korea Republic,27,2.8,2,0,0.0,MF,Midfielder,PL0595,-0.96,1.6,False
+Aria Yousefi,MF,ir IR Iran,24,0.5,1,1,2.0,MF,Midfielder,PL0596,-0.96,1.6,True
+Ali Yousif,FW,iq Iraq,30,0.4,0,0,0.0,FW,Forward,PL0597,-1.8824999999999998,3.1374999999999997,False
+?smail Yüksek,MF,tr Türkiye,27,1.5,5,0,0.0,MF,Midfielder,PL0598,-0.96,1.6,False
+Warren Zaïre-Emery,MF,fr France,20,1.2,1,0,0.0,MF,Midfielder,PL0599,-0.96,1.6,False
+Jaroslav Zelený,MF,cz Czechia,33,1.4,1,0,0.0,MF,Midfielder,PL0600,-0.96,1.6,False
+Alejandro Zendejas,"FW,MF",us USA,28,0.2,1,0,0.0,FW,Forward,PL0601,-1.8824999999999998,3.1374999999999997,False
+Besfort Zeneli,MF,se Sweden,23,0.7,1,1,1.5,MF,Midfielder,PL0602,-0.96,1.6,False
+Ramiz Zerrouki,MF,dz Algeria,28,1.2,0,0,0.0,MF,Midfielder,PL0603,-0.96,1.6,False
+Mostafa Ziko,"FW,MF",eg Egypt,29,4.1,8,3,0.73,FW,Forward,PL0604,-1.8824999999999998,3.1374999999999997,False
+Zizo,MF,eg Egypt,30,0.6,3,1,1.61,MF,Midfielder,PL0605,-0.96,1.6,True
+Martín Zubimendi,MF,es Spain,27,0.2,0,0,0.0,MF,Midfielder,PL0606,-0.96,1.6,False
+Themba Zwane,"FW,MF",za South Africa,36,0.3,0,0,0.0,FW,Forward,PL0607,-1.8824999999999998,3.1374999999999997,False
+Martin Ødegaard,MF,no Norway,27,5.2,9,3,0.57,MF,Midfielder,PL0608,-0.96,1.6,False
