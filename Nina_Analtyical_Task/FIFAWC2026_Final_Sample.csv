@@ -1,0 +1,101 @@
+player_name,Pos,MP,Min,goals,height_cm,weight_kg,Team,team_status,BMI
+Alexander Bernhardsson,MF,3,217,0,185,69,Sweden,advanced,20.16070124178232
+Jules KoundÃ©,DF,8,599,0,178,83,France,advanced,26.19618735008206
+Malo Gusto,DF,5,121,0,179,69,France,advanced,21.53490839861428
+Julio Enciso,FW,5,386,1,168,63,Paraguay,advanced,22.321428571428577
+Matt Turner,GK,1,90,0,191,83,USA,advanced,22.75156931005181
+Mohamed Salah,"FW,MF",5,425,1,175,72,Egypt,advanced,23.51020408163265
+Alex Sandro,"DF,MF",1,9,0,180,78,Brazil,advanced,24.074074074074076
+Yasser Ibrahim,DF,5,467,1,185,82,Egypt,advanced,23.959094229364496
+Amine Gouiri,FW,4,251,1,180,78,Algeria,advanced,24.074074074074076
+Leandro Trossard,"MF,FW",6,506,2,172,60,Belgium,advanced,20.281233098972415
+Jørgen Strand Larsen,FW,2,105,0,193,78,Norway,advanced,20.94015946736825
+Dan Ndoye,"MF,FW",6,406,2,184,76,Switzerland,advanced,22.448015122873343
+Kōki Ogawa,FW,3,42,0,186,78,Japan,advanced,22.54595907041276
+Alexis Vega,"FW,MF",1,12,0,172,77,Mexico,advanced,26.027582477014604
+Gustavo VelÃ¡squez,DF,5,246,0,179,78,Paraguay,advanced,24.343809494085704
+Alexis Saelemaekers,MF,4,83,1,180,72,Belgium,advanced,22.22222222222222
+Amadou Onana,MF,4,106,0,187,76,Belgium,advanced,21.7335354170837
+Marko ArnautoviÄ‡,FW,4,144,2,192,83,Austria,advanced,22.51519097222222
+Alistair Johnston,DF,5,450,0,180,72,Canada,advanced,22.22222222222222
+Diego Moreira,MF,1,58,0,179,73,Belgium,advanced,22.783308885490467
+Dan Burn,DF,3,35,0,198,87,England,advanced,22.19161310070401
+Laros Duarte,MF,4,166,0,180,76,Cabo Verde,advanced,23.456790123456788
+Nikola VlaÅ¡iÄ‡,MF,3,189,1,178,78,Croatia,advanced,24.61810377477591
+Johan Mojica,DF,4,390,0,182,66,Colombia,advanced,19.925129815239703
+Gessime Yassine,MF,3,80,1,172,62,Morocco,advanced,20.9572742022715
+Braian Ojeda,MF,1,22,0,173,68,Paraguay,advanced,22.72043837081092
+Malick Thiaw,"DF,MF",2,42,0,185,88,Germany,advanced,25.712198685171657
+Theo HernÃ¡ndez,DF,5,257,0,184,81,France,advanced,23.92485822306238
+Ãlvaro Fidalgo,MF,3,96,1,171,68,Mexico,advanced,23.25501863821347
+Zakaria El Ouahdi,"DF,MF",1,17,0,171,68,Morocco,advanced,23.25501863821347
+Jordan Pickford,GK,7,660,0,185,77,England,advanced,22.4981738495252
+Jamal Musiala,MF,4,270,1,184,74,Germany,advanced,21.85727788279773
+Elye Wahi,FW,3,110,0,178,73,Côte d'Ivoire,advanced,23.04002019946976
+Gonzalo Plata,FW,4,360,1,178,76,Ecuador,advanced,23.98687034465345
+Igor MatanoviÄ‡,FW,3,95,0,194,89,Croatia,advanced,23.647571474120525
+Yerry Mina,DF,1,2,0,195,93,Colombia,advanced,24.45759368836292
+Ramy Rabia,DF,5,372,0,180,86,Egypt,advanced,26.54320987654321
+Maxime CrÃ©peau,GK,5,450,0,182,87,Canada,advanced,26.26494384736143
+Ryan Mendes,"FW,MF",4,330,0,178,77,Cabo Verde,advanced,24.30248705971468
+Ricardo RodrÃ­guez,DF,6,517,0,180,78,Switzerland,advanced,24.074074074074076
+Remo Freuler,MF,6,592,0,180,77,Switzerland,advanced,23.76543209876543
+Phillipp Mwene,DF,2,147,0,179,68,Austria,advanced,21.22280827689523
+MoisÃ©s Caicedo,MF,4,360,0,178,73,Ecuador,advanced,23.04002019946976
+Evidence Makgopa,FW,4,215,0,188,78,South Africa,advanced,22.068809416025356
+Moïse Bombito,DF,3,193,0,191,83,Canada,advanced,22.75156931005181
+Joe Scally,DF,2,87,0,179,79,USA,advanced,24.65590961580475
+Gideon Mensah,DF,4,360,0,178,68,Ghana,advanced,21.461936624163616
+Douglas Santos,DF,5,441,0,173,68,Brazil,advanced,22.72043837081092
+Ibrahim Mbaye,MF,4,157,1,175,64,Senegal,advanced,20.897959183673468
+Gavi,FW,2,76,0,173,68,Spain,advanced,22.72043837081092
+Grant Hanley,DF,2,180,0,188,81,Scotland,eliminated,22.91760977818017
+Saleh Hardani,DF,2,90,0,176,73,Iran,eliminated,23.56663223140496
+Callum McCowatt,MF,3,159,0,179,73,New Zealand,eliminated,22.783308885490467
+Oğuz Aydın,DF,1,89,0,178,77,Türkiye,eliminated,24.30248705971468
+Rodrigo Aguirre,FW,1,1,0,186,74,Uruguay,eliminated,21.389756041160823
+Kim Min-jae,DF,3,245,0,188,84,Korea,eliminated,23.766410140334997
+Nawaf Boushal,DF,2,91,0,185,74,Saudi Arabia,eliminated,21.62162162162162
+Firas Chaouat,FW,3,49,0,185,73,Tunisia,eliminated,21.32943754565376
+Saud Abdulhamid,DF,3,269,0,171,73,Saudi Arabia,eliminated,24.96494647925858
+AndrÃ©s Andrade CedeÃ±o,DF,3,270,0,175,78,Panama,eliminated,25.46938775510204
+Zeki Çelik,DF,2,163,0,180,74,Türkiye,eliminated,22.839506172839503
+Hwang Hee-chan,FW,3,108,0,177,77,Korea,eliminated,24.577867151840145
+Livano Comenencia,MF,3,233,1,186,78,Curaçao,eliminated,22.54595907041276
+Khalid Al Ghannam,MF,1,1,0,178,69,Saudi Arabia,eliminated,21.777553339224845
+Amer Jamous,MF,1,15,0,177,76,Jordan,eliminated,24.25867407194612
+Michal SadĂ­lek,MF,3,183,1,169,63,Czechia,eliminated,22.058051188683876
+Mehdi Ghayedi,FW,1,45,0,165,58,Iran,eliminated,21.30394857667585
+Edmilson Junior,"MF,FW",3,210,0,183,71,Qatar,eliminated,21.20099137030069
+Juan Manuel Sanabria,DF,3,204,0,170,68,Uruguay,eliminated,23.529411764705884
+Ali Al Hamadi,FW,3,180,0,183,81,Iraq,eliminated,24.187046492878256
+Ben Gannon-Doak,MF,3,186,0,175,64,Scotland,eliminated,20.897959183673468
+Zaid Ismail,MF,2,117,0,185,73,Iraq,eliminated,21.32943754565376
+TomÃ¡s RodrÃ­guez,FW,2,46,0,175,73,Panama,eliminated,23.836734693877556
+Al-Hashmi Al-Hussain,MF,1,32,0,184,72,Qatar,eliminated,21.26654064272212
+Elijah Just,MF,3,264,3,174,68,New Zealand,eliminated,22.46003435064077
+LukĂĄĹĄ Äerv,MF,2,163,0,182,73,Czechia,eliminated,22.03840115928028
+Jeremy Antonisse,"FW,MF",2,75,0,184,72,Curaçao,eliminated,21.26654064272212
+Sherel Floranus,DF,3,270,0,181,73,Curaçao,eliminated,22.28259210646805
+Kieran Tierney,MF,2,104,0,178,69,Scotland,eliminated,21.777553339224845
+Yoel BÃ¡rcenas,MF,3,249,0,175,74,Panama,eliminated,24.163265306122447
+Noor Al Rawabdeh,MF,3,270,0,178,74,Jordan,eliminated,23.355636914530997
+Sultan Al-Brake,DF,2,141,0,175,64,Qatar,eliminated,20.897959183673468
+Alireza Beiranvand,GK,3,270,0,192,83,Iran,eliminated,22.51519097222222
+Armando Obispo,DF,3,270,0,186,78,Curaçao,eliminated,22.54595907041276
+Ĺ tÄpĂĄn Chaloupek,DF,1,90,0,188,68,Czechia,eliminated,19.23947487550928
+Federico ViÃ±as,FW,3,192,0,180,81,Uruguay,eliminated,25.0
+Odeh Al-Fakhouri,"MF,FW",3,148,0,180,68,Jordan,eliminated,20.98765432098765
+Sarpreet Singh,MF,3,209,0,175,71,New Zealand,eliminated,23.18367346938776
+Mehdi Torabi,MF,1,25,0,185,73,Iran,eliminated,21.32943754565376
+Jearl Margaritha,"FW,MF",2,41,0,181,73,Curaçao,eliminated,22.28259210646805
+Findlay Curtis,MF,2,9,0,180,66,Scotland,eliminated,20.37037037037037
+Wilson Isidor,FW,3,186,1,179,73,Haiti,eliminated,22.783308885490467
+Lee Han-beom,DF,3,270,0,188,83,Korea,eliminated,23.48347668628339
+TomĂĄĹĄ HoleĹĄ,DF,2,153,0,180,73,Czechia,eliminated,22.530864197530864
+Ali Abdi,DF,3,269,0,178,73,Tunisia,eliminated,23.04002019946976
+Cecilio Waterman,FW,2,76,0,181,77,Panama,eliminated,23.503556057507403
+Mohammed Al-Owais,GK,3,270,0,187,77,Saudi Arabia,eliminated,22.019502988361115
+Nasser Al-Dawsari,MF,3,207,0,173,64,Saudi Arabia,eliminated,21.38394199605733
+Mohammad Ghorbani,MF,1,90,0,190,82,Iran,eliminated,22.71468144044321
+Cristian MartÃ­nez,"MF,FW",3,242,0,170,78,Panama,eliminated,26.989619377162636
